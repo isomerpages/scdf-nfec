@@ -17,9 +17,12 @@ sections:
         - title: Committee
           description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Events
+          description: ""
           url: /privacy/
+        - title: Resources
+          description: ""
+          url: /resources/permalink
   - infobar:
       title: Infobar title
       subtitle: Subtitle
