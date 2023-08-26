@@ -2,8 +2,8 @@ collections:
   committee:
     output: true
     order:
-      - Publicity Partners.md
       - Industrial Premises Partners.md
       - Commercial Premises Partners.md
       - Housing Premises Partners.md
       - Schools & Youth Partners.md
+      - Publicity Partners.md
