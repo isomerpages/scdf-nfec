@@ -74,5 +74,41 @@ description: ""
 <div style="text-align: center;" dir="auto"><img height="300" width="500" src="images/NFEC_Ceremony3.jpg" title="NFEC_Ceremony3"></div>
 <div style="text-align: center;" dir="auto"><em>Presentation of Retirement letter to Ms Margaret Heng for her 24 years of </em></div>
 <div style="text-align: center;" dir="auto"><em>sterling service in NFEC</em></div>
+<br>
+<br>
+<br>
+<br>
 
-
+### Dialogue with Town Councils
+<p>The NFEC Housing Premises Committee (HPC) had a fruitful virtual dialogue session with Town Councils on fire safety related topics on 24 Feb 2021.</p>
+<p>&nbsp;</p>
+<p>During the online session hosted by Chairman, NFEC HPC, the Singapore Civil Defence Force presented on the Town Council community first responders and shared updates on the active mobility situation in housing estates.</p>
+<hr id="system-readmore">
+<table width="100%" border="1">
+<tbody>
+<tr>
+<td width="50%" valign="top" align="center"><img height="550" width="900" src="images/TC_Dialogue_1.jpg" title="Dialogue with TCs 1"></td>
+<td width="50%" valign="top" align="center"><img height="550" width="900" src="images/TC_Dialogue_2.jpg" title="Dialogue with TCs 2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;&nbsp;<u></u></p>
+<p>Below are some useful advisories shared with the Town Councils during the dialogue.</p>
+<table width="100%&quot;" border="1">
+<tbody>
+<tr>
+<td width="30%" style="text-align: center;">
+<p><strong>Helping out as Community First Responders</strong></p>
+</td>
+<td width="60%" colspan="2" style="text-align: center;"><strong>Preventing PMD &amp; PAB Fires</strong></td>
+</tr>
+<tr>
+<td style="width: 156px;"><a rel="noopener noreferrer" target="_blank" href="https://www.scdf.gov.sg/docs/default-source/scdf-library/publications/publications/rubbish-fires-brochure.pdf" title="Rubbish Fires"><img height="300" src="images/Rubbish_Fires.jpg" title="Rubbish Fires" style="display: block; margin-left: auto; margin-right: auto;"></a></td>
+<td style="width: 229px;"><a rel="noopener noreferrer" target="_blank" href="https://www.scdf.gov.sg/docs/default-source/scdf-library/publications/publications/lr8516f_elcl.pdf" title="Preventing Battery Fires"><img height="400" src="images/Preventing_Battery_Fires.jpg" title="Preventing Battery Fires" style="display: block; margin-left: auto; margin-right: auto;"></a></td>
+<td style="width: 229px;"><a rel="noopener noreferrer" target="_blank" href="images/LATEST_PMD_PAB_infographic.jpg" title="PMD &amp; PAB Infographic"><img height="300" src="images/LATEST_PMD_PAB_infographic.jpg" title="PMD &amp; PAB Infographic" style="display: block; margin-left: auto; margin-right: auto;"></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
