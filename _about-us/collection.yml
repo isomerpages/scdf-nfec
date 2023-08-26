@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Financial Information.md
       - Mission & Logo.md
