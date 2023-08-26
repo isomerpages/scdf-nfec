@@ -49,10 +49,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/NFEC_MarkShaw.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/03_JohnWu.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/AC-Michael-Chua.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img width="80" src="images/BOD/LTC_Rayner_Oon.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr markham shaw.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr john wu.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/ac michael chua.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img width="80" src="images/ltc rayner oon.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">Mr Markham Shaw</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span></td>
@@ -77,10 +77,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/07_EdwinYap.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/24_TerenceKoh.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/09_ChrisTan.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/11_BenedictKoh_2022.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr edwin yap.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr terence koh.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr chris tan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr benedict koh.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Edwin Yap<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Industrial Premises Committee</strong></span></td>
@@ -95,9 +95,9 @@ description: ""
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/10_RaymondTeo.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/19_RobertRonald.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/COL_Leslie.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr raymond teo.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr robert ronald.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/ac leslie williams.png"></td>
 <td valign="top" align="center" style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
@@ -113,10 +113,10 @@ description: ""
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/14_SimonGan.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="../BOD/COL_Wesley_Lim.png"><img height="102" width="81" alt="" src="images/SAC_Razak.png"><img alt="" src="images/BOD/COL_Wesley_Lim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/17_ThuvinderSingh.png">&nbsp;</td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/22_StevenGoh.png">&nbsp;</td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr simon gan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/sac abdul razak.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr thuvinder singh.png">&nbsp;</td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr steven goh.png">&nbsp;</td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">Mr Simon Gan</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></td>
@@ -141,10 +141,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/Mr_Bernard_Lew.jpg"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/BOD/Mr-Patrick-Sim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/BernardSoh.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/RaizanRazak.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/mr bernard lew.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="images/mr patrick sim.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/mr bernard soh.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/mr raizan abdul razak.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr&nbsp;Bernard Lew Buang Keng</td>
@@ -159,10 +159,10 @@ description: ""
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/26_JonathanTan.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/Chong_Zunjie.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/Tong_Sook_Yean.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="images/BOD/Tan_Siew_Yen.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/mr jonathan tan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/mr chong zunjie.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/ms tong sook yuen.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="images/ms yen tan.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Jonathan Tan</td>
