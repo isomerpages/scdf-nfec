@@ -16,7 +16,7 @@ sections:
           url: /mission-logo/permalink
         - title: Committee
           description: ""
-          url: https://gmail.com
+          url: /industrial-partners/permalink
         - title: Events
           description: ""
           url: /privacy/
