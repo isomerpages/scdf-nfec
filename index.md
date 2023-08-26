@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/nfec fire safety seminar 2023.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
