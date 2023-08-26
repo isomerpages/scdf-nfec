@@ -2,7 +2,6 @@ collections:
   committee:
     output: true
     order:
-      - Schools & Youth.md
       - Industrial Premises Partners.md
       - Commercial Premises Partners.md
       - Housing Premises Partners.md
