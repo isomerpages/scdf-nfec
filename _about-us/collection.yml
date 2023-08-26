@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Board of Directors.md
       - Mission & Logo.md
       - Financial Information.md
       - Non Financial Information.md
