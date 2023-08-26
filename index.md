@@ -4,7 +4,7 @@ title: National Fire and Emergency Preparedness Council
 description: Brief site description here
 image: /images/nfec logo high res.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
