@@ -2,5 +2,6 @@ collections:
   committee:
     output: true
     order:
+      - Housing Premises Partners.md
       - Industrial Premises Partners.md
       - Commercial Premises Partners.md
