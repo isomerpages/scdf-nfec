@@ -17,3 +17,62 @@ description: ""
 <div align="left" style="text-align: justify;"><img data-bit="iit" data-image-whitelisted="" height="280" width="442" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=74ac18c5c3&amp;attid=0.0.5&amp;permmsgid=msg-f:1746467448164723888&amp;th=183cb2e413a42cb0&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ8KFmFBdYiimv3glRItjgYEf_C3jgVPEtgTj0nzms3FIVFxDYbrzCFq_mUwIp5vG6sigsL55grxdNa_OnYoiQOo-2fNqnzgZ3tuELarcrkeMDYEthGYdgnBwmU&amp;disp=emb" tabindex="0">&nbsp;<img data-bit="iit" data-image-whitelisted="" height="280" width="396" src="https://mail.google.com/mail/u/0?ui=2&amp;ik=74ac18c5c3&amp;attid=0.0.7&amp;permmsgid=msg-f:1746467448164723888&amp;th=183cb2e413a42cb0&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_ih3fBCVQuSArIKmmf4RlUrrJsh2JKw0Rc_NsE9b8F5bKqpLgKcLiQICo4WYXUp6wkLyCzEeIEp8xpUz13nV_y6Uceyg69tjrFhE1RIVi6q9bh8_Gtys6BkoU&amp;disp=emb" tabindex="0"></div>
 <div align="left" style="text-align: justify;">&nbsp;</div>
 <div align="left" style="text-align: justify;">On top of the Anniversary Celebration, NFEC also gave out the Fire Safety Awards (FSA) during the ceremony. The presentation of FSA serves to appreciate all stakeholders for their commitment and contributions towards maintaining a high standard of fire safety in their premises and building a safer environment for all.&nbsp;</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### NFEC 36th Annual General Meeting
+
+
+<div>
+<div style="text-align: justify;" dir="auto">The NFEC held its 36th Annual General Meeting (AGM) at the Furama Riverfront Hotel on 27 July 2022. Presided by the four NFEC Officer Bearers, the meeting saw the attendance of close to 60 people, including Chairpersons from the respective committee, members of the Board of Directors, as well as members of the NFEC.</div>
+<div style="text-align: justify;" dir="auto">&nbsp;</div>
+<div style="text-align: justify;" dir="auto"><img height="300" width="400" src="images/NFEC_AGM_2.jpg" title="NFEC Office Bearers"></div>
+<div style="text-align: justify;" dir="auto">&nbsp;</div>
+<div style="text-align: justify;" dir="auto"><img alt="" src="../nfec_agm.jpg">The meeting started with a welcome address by Mr Markham Shaw, Chairman of the NFEC, followed by a review of the annual report, highlighting this year's key achievements and upcoming plans.</div>
+</div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;">
+<div dir="auto">A total of five outgoing members who have stepped down were presented with appreciation plaques while the newly appointed members were presented with Letters of Appointment.</div>
+<div dir="auto">&nbsp;</div>
+<div dir="auto"><img height="250" width="500" src="images/NFEC_AGM.jpg"></div>
+<div dir="auto">&nbsp;</div>
+</div>
+<div>
+<div style="text-align: justify;" dir="auto">A big thank you to everyone who made this year's AGM a great success! We look forward to working closely together in promoting fire safety and emergency preparedness to keep Singapore safe and secure.</div>
+<div style="text-align: justify;" dir="auto">&nbsp;</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+### Appreciation and Welcome Ceremony for NFEC Members
+
+<p style="text-align: justify;">On 6 May 2022, an Appreciation and Welcome ceremony was held for outgoing and incoming members of the NFEC at Furama Riverfront Hotel.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">A total of seven outgoing members who will be stepping down were presented with retirement letters and plaques while five newly appointed members were presented with Letters of Appointment.&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<div style="text-align: justify;" dir="auto">Thank you to the outgoing members for your strong support and contributions to NFEC in the past years! As we warmly welcome the new members into our NFEC family and see changes in committee members, one thing remain unchanged; our commitment towards promoting fire prevention and emergency preparedness, to make Singapore safe and secure.</div>
+<div style="text-align: justify;" dir="auto">&nbsp;<hr id="system-readmore"></div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto"><img height="300" width="500" src="images/NFEC_Ceremony1.jpg" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div style="text-align: center;" dir="auto"><img alt="" src="images/NFEC_Ceremony1" title="NFEC_Ceremony1"><em>The new NFEC Board Members for the term 1 April 2022 to 31 March 2024</em></div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto"><em><img height="300" width="500" src="images/NFEC_Ceremony2.jpg" title="NFEC_Ceremony2"></em></div>
+<div style="text-align: center;" dir="auto"><em>The Retired NFEC Board Members with COMR Eric Yap, Commissioner SCDF (fourth from left)</em></div>
+<div style="text-align: center;" dir="auto"><em>and Mr Markham Shaw, Chairman NFEC (fifth from left)</em></div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto"><img height="300" width="500" src="images/NFEC_Ceremony4.jpg" title="NFEC_Ceremony4"></div>
+<div style="text-align: center;" dir="auto"><em>Presentation of Appointment letter to Chairman NFEC</em></div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto">&nbsp;</div>
+<div style="text-align: center;" dir="auto"><img height="300" width="500" src="images/NFEC_Ceremony3.jpg" title="NFEC_Ceremony3"></div>
+<div style="text-align: center;" dir="auto"><em>Presentation of Retirement letter to Ms Margaret Heng for her 24 years of </em></div>
+<div style="text-align: center;" dir="auto"><em>sterling service in NFEC</em></div>
+
+
