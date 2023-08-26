@@ -24,9 +24,7 @@ sections:
           description: ""
           url: /resources/permalink
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Latest NFEC Updates
+      button: NFEC 2022 ANNUAL REPORT
       url: /faq/
 ---
