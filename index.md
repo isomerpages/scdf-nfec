@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: https://google.com
+          url: /mission-logo/permalink
         - title: Committee
           description: ""
           url: https://gmail.com
