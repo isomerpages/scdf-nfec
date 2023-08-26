@@ -19,7 +19,7 @@ sections:
           url: /industrial-partners/permalink
         - title: Events
           description: ""
-          url: /privacy/
+          url: /upcoming-events/permalink
         - title: Resources
           description: ""
           url: /resources/permalink
