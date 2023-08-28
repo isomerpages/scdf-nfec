@@ -16,7 +16,7 @@ description: ""
 <br>
 
 **Attendance:**<br>
-<br>
+
 1. Electronic attendance sign-in and sign-out shall be implemented on the event day.  There is NO manual paper attendance sign-in on the event day.
 2. Each participant will sign-in and sign-out his or her attendance before and at the end of the event by scanning his or her NRIC or Singapore Driving License.   The system will provide real time reporting of the participants' attendance of the day.
 3. The electronic attendance sign-in stations will open at 8.00 a.m. and close at 9.00 a.m.<br>
