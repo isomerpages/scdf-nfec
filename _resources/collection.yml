@@ -2,6 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Fire Safety Guidelines for HDB Estates.md
       - Annual Reports.md
       - Fire Safety Education.md
