@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Fire Prevention Tips/Vehicle Fire Safety Tips.md
-      - Fire Prevention Tips/School Fire Safety Tips.md
-      - Fire Prevention Tips/Market Fire Safety Tips.md
-      - Fire Prevention Tips/Residential Fire Prevention Tips.md
-      - Fire Prevention Tips/General Fire Prevention Tips.md
       - Fire Prevention Tips/.keep
+      - Fire Prevention Tips/General Fire Prevention Tips.md
+      - Fire Prevention Tips/Residential Fire Prevention Tips.md
+      - Fire Prevention Tips/Market Fire Safety Tips.md
+      - Fire Prevention Tips/School Fire Safety Tips.md
+      - Fire Prevention Tips/Vehicle Fire Safety Tips.md
