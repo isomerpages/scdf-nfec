@@ -22,7 +22,7 @@ sections:
           url: /upcoming-events/permalink
         - title: Resources
           description: ""
-          url: /resources/permalink
+          url: /resources/general-fire-prevention-tips/permalink/
   - infobar:
       title: Latest NFEC Updates
       button: NFEC 2022 ANNUAL REPORT
