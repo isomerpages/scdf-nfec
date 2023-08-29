@@ -71,3 +71,26 @@ Burns and scalds are injuries to body tissue caused by heat, chemicals, or radia
 ![](/images/escape%20smoke.png)
 <br>
 If you have to escape through smoke, keep low by crawling on your hands and knees. In a fire, smoke will naturally rise, leaving some fresh air about 30cm to 60cm above the floor. Crawling keeps your head in this safety zone, away from the toxic smoke.
+<br>
+<br>
+#### Smoke Detector
+
+**WHAT IS A SMOKE DETECTOR?**
+<br>
+![](/images/smoke%20detector.png)
+<br>
+A device to detect smoke and produce an alarm sound automatically.
+<br>
+It consists of 2 parts: a sensor to detect smoke and a very loud electric alarm to alert people of a fire nearby.<br>
+Two most common types of smoke detectors: Photoelectric detectors and Ionisation detectors.<br>
+The recommended type for use in Singapore is the photoelectric type.<br>
+<br>
+**WHY DO WE NEED A SMOKE DETECTOR?**
+<br>
+* Smoke is the main cause of death in many fatal fires.<br>
+* Smoke contains many toxic gases and particles.<br>
+* It affects visibility, impairs judgment and causes disorientation, asphyxiation and eventual death.<br>
+* A small quantity of carbon monoxide from the smoke is sufficient to kill a person.<br>
+* Installing smoke detectors in homes will give early warning to the occupants, allowing them to escape before the smoke becomes too thick.<br>
+<br>
+
