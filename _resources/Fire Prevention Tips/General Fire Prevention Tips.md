@@ -48,3 +48,19 @@ Burns and scalds are injuries to body tissue caused by heat, chemicals, or radia
 1. Stop. Do not panic and run.
 2. Whether indoors or outdoors, drop down immediately, covering your face with your hands.
 3. Roll over and over to put out the flames.  Rolling smothers the flames by removing the oxygen. Covering your face with your hands prevents the flames from burning your face and help keep fumes and smoke from reaching your lungs.
+<br>
+<br>
+#### What to do if you are trapped
+
+**Don't panic. Stay calm and follow these steps:**
+
+![](/images/trapped%201.png)
+
+1. Enter a safe room, preferably one that overlooks a road.
+2. Shut the door behind you. Cover the bottom gap of the door with a blanket or rug, to prevent smoke from seeping through.
+3. Shout for help from the window or other openings to alert passers-by. Then wait for rescue to arrive.
+<br>
+![](/images/trapped%202.png)
+<br>
+4. If you have a mobile phone, call 995 and inform the operator of your location (e.g. room number / position / floor), what is on fire and how many persons are trapped.
+5. Do not attempt to jump out of the building. Help will be on the way very soon.
