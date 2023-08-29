@@ -93,4 +93,10 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 * A small quantity of carbon monoxide from the smoke is sufficient to kill a person.<br>
 * Installing smoke detectors in homes will give early warning to the occupants, allowing them to escape before the smoke becomes too thick.<br>
 <br>
-
+**WHEN AND HOW DO WE MAINTAIN A SMOKE DETECTOR?**
+<br>
+* Test your detector regularly.  Check on the instruction manual for the recommended period. <br>
+* Use soft brush attachment and vacuum all slots in the cover and side monthly.  Vacuum more often if dust, dirt, or grease accumulates easily.<br>
+* Change the battery when necessary (e.g. beeping sound every few minutes).  A yearly change is usually sufficient.<br>
+<br>
+**WHERE SHOULD YOU INSTALL THE SMOKE DETECTOR?**
