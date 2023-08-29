@@ -22,3 +22,20 @@ third_nav_title: Fire Prevention Tips
 3. Lighted sparklers should never be thrown at combustible materials.
 4. When a sparkler goes out, do not immediately touch the hot end as it could still be burning. Ideally, put the hot end in a bucket of water to fully cool it down.
 5. Finally, follow the safety instructions as stated by the manufacturer.
+<br>
+<br>
+#### When to see a doctor
+
+![](/images/when%20to%20see%20a%20doctor.png)
+<br>
+<br>
+#### Treating Burns &amp; Scalds
+
+Burns and scalds are injuries to body tissue caused by heat, chemicals, or radiation.
+
+* Reduce the spread of heat, pain, and swelling by placing the burnt area under cold running water or immersing it in cold water for at least 10 minutes.
+* Gently remove any rings, watches, belts, or constricting clothing from the injured area before it starts to swell.
+* Cover the injured area with clean, preferably sterile, non-fluffy material.
+* A burnt face may be covered with a gauze mask, with holes, cut into it to assist the victim in breathing.
+* Do not break blisters or remove anything that is sticking to a burn.
+* Do not apply lotions, ointments, or fat to the injured area.
