@@ -111,3 +111,7 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 <br>
 In the event of a fire, break the glass of the nearest manual call point that you see.  This will cause the fire alarm system to sound throughout the building.<br>
 <br>
+![](/images/hose%20reel.png)<br>
+* Turn on the hose reel valve before releasing the hose reel.<br>
+* Run out the hose.<br>
+* Turn on water at nozzle and direct the stream of water at the base of the fire.<br>
