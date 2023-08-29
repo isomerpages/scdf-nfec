@@ -100,3 +100,6 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 * Change the battery when necessary (e.g. beeping sound every few minutes).  A yearly change is usually sufficient.<br>
 <br>
 **WHERE SHOULD YOU INSTALL THE SMOKE DETECTOR?**
+<br>
+* At the ceiling and in the vicinity of the bedroom / sleeping area / kitchen.<br>
+* Occupants may consider additional smoke detectors for increased protection in areas such as the living room, dining room, and the utility room, where fires are likely to occur.
