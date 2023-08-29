@@ -103,3 +103,11 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 <br>
 * At the ceiling and in the vicinity of the bedroom / sleeping area / kitchen.<br>
 * Occupants may consider additional smoke detectors for increased protection in areas such as the living room, dining room, and the utility room, where fires are likely to occur.
+<br>
+<br>
+#### Operating a Manual Call Point and Hose Reel
+<br>
+![](/images/manual%20call%20point.png)<br>
+<br>
+In the event of a fire, break the glass of the nearest manual call point that you see.  This will cause the fire alarm system to sound throughout the building.<br>
+<br>
