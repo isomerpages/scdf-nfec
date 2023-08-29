@@ -22,7 +22,7 @@ description: ""
 3. The electronic attendance sign-in stations will open at 8.00 a.m. and close at 9.00 a.m.<br>
 
 **Parking for vehicles:**
-<p><u>No</u>&nbsp;Complimentary parking coupons will be given and participants are advise to take public transport.</p>
+<p><u>No</u>&nbsp;complimentary parking coupons will be given and participants are advise to take public transport.</p>
 <p>&nbsp;</p>
 <p><strong>Enquiries</strong></p>
 <p>For enquiries pertaining to the electronic registration, please email to&nbsp;<a href="mailto:events@asirs.org">events@asirs.org</a>&nbsp;or the Appointed Seminar Manager, ASIRS, Ms Bella, Tel 65920697.</p>
