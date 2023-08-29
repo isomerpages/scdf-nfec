@@ -4,25 +4,18 @@ permalink: /resources/residential-fire-prevention-tips/permalink/
 description: ""
 third_nav_title: Fire Prevention Tips
 ---
-<table cellpadding="5" cellspacing="0" border="0" style="text-align: center; width: 806.933px; float: left;">
-<tbody>
-<tr>
-<td bgcolor="#CC3333" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong><span style="color: #ffffff;">Fire Prevention Tips - Residential Fire Tips</span></strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>
-<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img height="140" width="500" alt="" src="../images/firepage/tipres.jpg"></p>
+
+![](/images/residential%20fire%20tips.png)
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Study room</strong></p>
 <ol style="text-align: justify;">
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Do not overload electrical outlets with too many extensions.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">All electrical wiring should be well insulated and maintained.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Aromatherapy burner should not be placed near windows as the draft from the window may blow curtains towards the flame.&nbsp;<br>- Keep the burners away from combustible materials like books or magazines&nbsp;<br>- They should be placed on steady surfaces.&nbsp;<br>- Burners should never be left unattended.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Always make sure that you get the right watt of bulb for your table lamp since a higher watt might heat the lampshade and cause fire.</li>
-<li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Use household electrical, electronics and gas appliances that bear the&nbsp;<img border="0" height="26" width="83" alt="" src="../images/firepage/62_safety_mark.gif">.</li>
-<li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Have proper ashtrays and always extinguish matches and cigarette butts properly.</li>
+<li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Use household electrical, electronics and gas appliances that bear the&nbsp;<br>
+	<br>
+	![](/images/safety%20mark.gif)
+</li><li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Have proper ashtrays and always extinguish matches and cigarette butts properly.</li>
 </ol>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Kitchen</strong></p>
 <ol style="text-align: justify;">
@@ -54,7 +47,6 @@ third_nav_title: Fire Prevention Tips
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Do not overload electrical outlets.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><span class="smalltxt">Seek professional helpwhen repairing worn out wires since wrongly or poorly repaired wires can start a fire.&nbsp;<br></span></li>
 </ol>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
