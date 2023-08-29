@@ -64,3 +64,10 @@ Burns and scalds are injuries to body tissue caused by heat, chemicals, or radia
 <br>
 4. If you have a mobile phone, call 995 and inform the operator of your location (e.g. room number / position / floor), what is on fire and how many persons are trapped.
 5. Do not attempt to jump out of the building. Help will be on the way very soon.
+<br>
+<br>
+#### Escaping through Smoke
+
+![](/images/escape%20smoke.png)
+<br>
+If you have to escape through smoke, keep low by crawling on your hands and knees. In a fire, smoke will naturally rise, leaving some fresh air about 30cm to 60cm above the floor. Crawling keeps your head in this safety zone, away from the toxic smoke.
