@@ -39,3 +39,12 @@ Burns and scalds are injuries to body tissue caused by heat, chemicals, or radia
 * A burnt face may be covered with a gauze mask, with holes, cut into it to assist the victim in breathing.
 * Do not break blisters or remove anything that is sticking to a burn.
 * Do not apply lotions, ointments, or fat to the injured area.
+<br>
+<br>
+#### If your clothing catches fire
+
+![](/images/stop%20drop%20roll.png)
+
+1. Stop. Do not panic and run.
+2. Whether indoors or outdoors, drop down immediately, covering your face with your hands.
+3. Roll over and over to put out the flames.  Rolling smothers the flames by removing the oxygen. Covering your face with your hands prevents the flames from burning your face and help keep fumes and smoke from reaching your lungs.
