@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Countdown.md
       - Fire Prevention Tips/General Fire Prevention Tips.md
       - Fire Prevention Tips/.keep
       - Fire Prevention Tips/Residential Fire Prevention Tips.md
