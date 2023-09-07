@@ -12,7 +12,7 @@ third_nav_title: Fire Prevention Tips
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Aromatherapy burner should not be placed near windows as the draft from the window may blow curtains towards the flame.&nbsp;<br>- Keep the burners away from combustible materials like books or magazines&nbsp;<br>- They should be placed on steady surfaces.&nbsp;<br>- Burners should never be left unattended.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Always make sure that you get the right watt of bulb for your table lamp since a higher watt might heat the lampshade and cause fire.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Use household electrical, electronics and gas appliances that bear the&nbsp;<br>
-	<br>
+<br>
 ![](/images/safetymark.png)
 </li><li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Have proper ashtrays and always extinguish matches and cigarette butts properly.</li>
 </ol>
