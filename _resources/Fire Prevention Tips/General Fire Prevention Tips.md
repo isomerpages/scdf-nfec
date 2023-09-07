@@ -148,18 +148,11 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 
 7.  Extinguishers shall be installed so that the carrying handle of the extinguisher is not more than 1.5 metres above the floor.<br>
 <br>
-#### Where to place a Fire Extinguisher
+#### Operating a Fire Extinguisher
 <br>
-<table cellpadding="5" cellspacing="0" border="0" style="font-family: 'Times New Roman'; background-color: #ffffff; text-align: center; width: 100%;">
-<tbody>
-<tr>
-<td bgcolor="#CC3333" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><strong><span style="color: #ffffff;">Fire Prevention Tips - General: Operating A Fire Extinguisher</span></strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>
+
+
+
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Operating a fire extinguisher is easy and anybody can do it. Just follow these simple steps – Pull, Aim, Squeeze and Sweep (PASS).</p>
 <table cellpadding="10" cellspacing="0" border="0" style="text-align: center; width: 585px;">
 <tbody>
@@ -194,7 +187,6 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 </tr>
 </tbody>
 </table>
-</td>
-</tr>
-</tbody>
-</table>
+
+
+
