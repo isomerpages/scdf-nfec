@@ -186,3 +186,31 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 </tr>
 </tbody>
 </table>
+<br>
+#### What to do if a fire breaks out
+<br>
+<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">If you discover a fire, do not panic. Just follow these simple steps:</p>
+<table cellpadding="10" cellspacing="0" border="0" style="text-align: center; width: 500px;">
+<tbody>
+<tr valign="top">
+<td width="25%"><b><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Evacuate premises</span></b></td>
+<td width="25%"><b><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Contain fire</span></b></td>
+<td width="25%"><b><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Turn gas mains off and call for help</span></b></td>
+<td width="25%"><b><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Fight fire without<br>endangering self</span></b></td>
+</tr>
+<tr valign="top">
+<td width="100%" colspan="4"><img border="0" height="140" width="500" alt="" src="../images/firepage/fire%20safety/what%20to%20do%20if%20a%20fire%20breaks%20out/tio01.jpg"></td>
+</tr>
+<tr valign="top">
+<td width="25%"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Get everyone out.</span></td>
+<td width="25%"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Close the door to contain the fire</span></td>
+<td width="25%"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Turn off the gas mains if you can reach it.&nbsp;<b>Call 995 for SCDF.</b></span></td>
+<td width="25%"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Fight the fire if you can, but only do so without endangering yourself or others.</span></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<p><br style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12px; text-align: justify;"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12px; text-align: justify;"><br></span></p>
