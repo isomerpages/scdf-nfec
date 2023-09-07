@@ -115,3 +115,35 @@ In the event of a fire, break the glass of the nearest manual call point that yo
 * Turn on the hose reel valve before releasing the hose reel.<br>
 * Run out the hose.<br>
 * Turn on water at nozzle and direct the stream of water at the base of the fire.<br>
+<br>
+#### Choosing a Fire Extinguisher
+<br>
+A fire extinguisher is a handy item to keep around the home, in a school, office or factory. Portable and effective; it is usually the first line of defence which can be used to put out a small fire.
+<br>
+<br>
+Extinguishers may use water, dry powder, foam, or carbon dioxide as the extinguishing medium. The table below recommends the most appropriate extinguishers for different types of fires<br>
+<br>
+
+
+| Type of fire | Recommended type of extinguisher | 
+| -------- | -------- | 
+| Fires arising from wood, cloth, or paper     | Water extinguisher     | 
+| Fires arising from flammable liquid    | Dry powder extinguisher, foam extinguisher     | 
+| Electrical fires    | Dry powder extinguisher, carbon dioxide extinguisher     | 
+<br>
+<br>
+#### Where to place a Fire Extinguisher
+<br>
+1.  Extinguishers should be placed in an easily visible and accessible location, preferably near room exits, corridors, stairways, lobbies and landings.<br>
+
+2.  Extinguishers should not be located in places where they may be exposed to special risks such as corrosive atmospheres or splashing by corrosive fluids. <br>
+
+3.  Extinguishers shall be mounted on walls by the hangers or brackets supplied.<br>
+
+4.  If the special risk is in a confined space, it is generally advisable to position it outside that space.<br>
+
+5.  Cabinets if any housing fire extinguishers, should not be locked. If it needs to be locked to prevent malicious use or physical damage, a glass-fronted box should be used and the key to be located next to or part of the cabinet.<br>
+
+6.  All free-standing extinguishers may be placed on shelves or on the floor, if permitted by relevant authorities.<br>
+
+7.  Extinguishers shall be installed so that the carrying handle of the extinguisher is not more than 1.5 metres above the floor.<br>
