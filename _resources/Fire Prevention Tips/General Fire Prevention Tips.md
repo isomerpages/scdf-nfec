@@ -147,3 +147,54 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 6.  All free-standing extinguishers may be placed on shelves or on the floor, if permitted by relevant authorities.<br>
 
 7.  Extinguishers shall be installed so that the carrying handle of the extinguisher is not more than 1.5 metres above the floor.<br>
+<br>
+#### Where to place a Fire Extinguisher
+<br>
+<table cellpadding="5" cellspacing="0" border="0" style="font-family: 'Times New Roman'; background-color: #ffffff; text-align: center; width: 100%;">
+<tbody>
+<tr>
+<td bgcolor="#CC3333" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><strong><span style="color: #ffffff;">Fire Prevention Tips - General: Operating A Fire Extinguisher</span></strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Operating a fire extinguisher is easy and anybody can do it. Just follow these simple steps – Pull, Aim, Squeeze and Sweep (PASS).</p>
+<table cellpadding="10" cellspacing="0" border="0" style="text-align: center; width: 585px;">
+<tbody>
+<tr valign="top">
+<td width="12" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b><span style="font-size: small;">P</span></b></td>
+<td width="89" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Pull out safety<br>device of fire<br>extinguisher</b></td>
+<td width="12" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b><span style="font-size: small;">A</span></b></td>
+<td width="95" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Aim nozzle at<br>base of fire</b></td>
+<td width="10" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b><span style="font-size: small;">S</span></b></td>
+<td width="92" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Squeeze top<br>lever of fire<br>extinguisher</b></td>
+<td width="10" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b><span style="font-size: small;">S</span></b></td>
+<td width="89" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Direct discharge at fire using sweeping<br>motion</b></td>
+<td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Open all windows<br>to allow sufficient<br>ventilation</b></td>
+</tr>
+<tr valign="top">
+<td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="121" alt="" src="../images/firepage/fire%20safety/operating%20a%20fire%20extinguisher/pull_out_safety_device.jpg"></td>
+<td width="107" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="121" alt="" src="../images/firepage/fire%20safety/operating%20a%20fire%20extinguisher/aim_nozzle_at_base_of_fire.jpg"></td>
+<td width="102" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="120" alt="" src="../images/firepage/fire%20safety/operating%20a%20fire%20extinguisher/squeeze_top_lever.jpg"></td>
+<td width="99" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="117" alt="" src="../images/firepage/fire%20safety/operating%20a%20fire%20extinguisher/direct_discharge_at_fire.jpg"></td>
+<td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="118" alt="" src="../images/firepage/fire%20safety/operating%20a%20fire%20extinguisher/open_all_windows_.jpg"></td>
+</tr>
+<tr valign="top">
+<td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">Hold the extinguisher in an upright position.</span>
+<p><span class="smalltxt">Pull out the safety device which is fitted to prevent accidental discharge.</span></p>
+</td>
+<td width="107" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">Aim the extinguisher nozzle at the base of the fire.</span>
+<p><span class="smalltxt">Keep a safe distance of about 1 to 1.5 metres away from the fire.</span></p>
+</td>
+<td width="102" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">Press the top lever of the extinguisher.</span></td>
+<td width="99" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">Use a sweeping motion to allow discharge to be directed over the entire area of the fire.</span></td>
+<td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">When the fire is extinguished, open all doors and windows to ventilate the area.</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
