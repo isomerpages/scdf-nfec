@@ -149,7 +149,6 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 7.  Extinguishers shall be installed so that the carrying handle of the extinguisher is not more than 1.5 metres above the floor.<br>
 <br>
 #### Operating a Fire Extinguisher
-<br>
 
 
 
