@@ -107,7 +107,7 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 <br>
 #### Operating a Manual Call Point and Hose Reel
 <br>
-![](/images/manual%20call%20point.png)<br>
+![](/images/manual%20call%20point.png)
 <br>
 In the event of a fire, break the glass of the nearest manual call point that you see.  This will cause the fire alarm system to sound throughout the building.<br>
 <br>
@@ -167,11 +167,11 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 <td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><b>Open all windows<br>to allow sufficient<br>ventilation</b></td>
 </tr>
 <tr valign="top">
-<td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="121" alt="" src="../images/extinguisher1.png"></td>
-<td width="107" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="121" alt="" src="../images/extinguisher2.png"></td>
-<td width="102" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="120" alt="" src="../images/extinguisher3.png"></td>
-<td width="99" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="117" alt="" src="../images/extinguisher4.png"></td>
-<td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="118" alt="" src="../images/extinguisher5.png"></td>
+<td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="121" alt="" src="/images/extinguisher1.png"></td>
+<td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="121" alt="" src="/images/extinguisher2.png"></td>
+<td width="102" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="120" alt="" src="/images/extinguisher3.png"></td>
+<td width="99" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="151" width="117" alt="" src="/images/extinguisher4.png"></td>
+<td width="172" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><img border="0" height="150" width="118" alt="" src="/images/extinguisher5.png"></td>
 </tr>
 <tr valign="top">
 <td width="121" colspan="2" style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><span class="smalltxt">Hold the extinguisher in an upright position.</span>
