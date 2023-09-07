@@ -199,7 +199,7 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 <td width="25%"><b><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Fight fire without<br>endangering self</span></b></td>
 </tr>
 <tr valign="top">
-<td width="100%" colspan="4"><img border="0" height="140" width="500" alt="" src="/images/firepage/fire%20safety/what%20to%20do%20if%20a%20fire%20breaks%20out/tio01.jpg"></td>
+<td width="100%" colspan="4"><img border="0" height="140" width="500" alt="" src="/images/fire breaks out.png"></td>
 </tr>
 <tr valign="top">
 <td width="25%"><span style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Get everyone out.</span></td>
