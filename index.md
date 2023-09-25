@@ -26,5 +26,5 @@ sections:
   - infobar:
       title: Latest NFEC Updates
       button: NFEC 2022 ANNUAL REPORT
-      url: /faq/
+      url: (/files/nfec_ar_2023_compressed.pdf)
 ---
