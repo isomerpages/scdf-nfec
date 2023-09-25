@@ -30,3 +30,12 @@ A total of five outgoing members who have stepped down were presented with appre
 
 A big thank you to everyone who made this year's AGM a great success! We look forward to working closely together in promoting fire safety and emergency preparedness to keep Singapore safe and secure.
 <br>
+
+### Appreciation and Welcome Ceremony for NFEC members
+
+On 6 May 2022, an Appreciation and Welcome ceremony was held for outgoing and incoming members of the NFEC at Furama Riverfront Hotel.
+
+A total of seven outgoing members who will be stepping down were presented with retirement letters and plaques while five newly appointed members were presented with Letters of Appointment.&nbsp;
+
+Thank you to the outgoing members for your strong support and contributions to NFEC in the past years! As we warmly welcome the new members into our NFEC family and see changes in committee members, one thing remain unchanged; our commitment towards promoting fire prevention and emergency preparedness, to make Singapore safe and secure.
+
