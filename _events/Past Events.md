@@ -8,6 +8,8 @@ description: ""
 <p style="text-align: justify;">&nbsp;</p>
 <div style="text-align: justify;">The National Fire and Emergency Preparedness Council (NFEC) held a ceremony to commemorate its 35 years of partnership with the community yesterday evening at Furama Riverfront Hotel. The ceremony was graced by Associate Professor Muhammad Faishal Ibrahim, Minister of State (MOS), Ministry of Home Affairs &amp; Ministry of National Development.</div>
 
+![](/images/nfec%20mos.jpeg)
+
 <div align="left" style="text-align: justify;">&nbsp;</div>
 <div align="left" style="text-align: justify;">Over the past 35 years, NFEC has worked relentlessly towards our mission of making Singapore a fire safe nation. From organising key events such as the upcoming Fire Safety Asia Conference (FiSAC), to going for post-fire sharing sessions with household residents, NFEC works with different stakeholders every day to serve the nation.</div>
 <div align="left" style="text-align: justify;">&nbsp;&nbsp;<hr id="system-readmore"></div>
