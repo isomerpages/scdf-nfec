@@ -37,4 +37,4 @@ d. Lugs to the landing valves are to be checked regularly.  If they are missing,
 e. Fire Alarm System must be "On" and operationally ready at all times.
 f. Smoke or heat detectors must be properly and regularly maintained.
 <br>
-
+![](/images/ff%20provisions.png)
