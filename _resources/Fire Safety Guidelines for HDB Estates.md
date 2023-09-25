@@ -19,3 +19,22 @@ d.&nbsp;No placement of items such as clothing racks unless they can be easily f
 <br>
 <br>
 ![](/images/common%20corridor.png)
+<br>
+### Guidelines On Staircases and Landings
+
+Strictly no placement / storage of objects at staircases and the immediate staircase landing.
+<br>
+![](/images/staircase%20and%20landing.png)
+<br>
+### Guidelines On Maintenance of Fire Safety / Firefighting Provisions
+
+Fire Safety / firefighting provisions are to be regularly serviced and be operationally ready at all times. Access to the fire safety / firefighting provisions should not be impeded at all times.
+<br>
+a. No placement / storage of items within dry / wet riser compartment.
+b. No placement / storage of items within hosereel compartment.
+c. Access to dry / wet landing valves and dry / wet riser breeching inlet at common areas should not be obstructed.
+d. Lugs to the landing valves are to be checked regularly.  If they are missing, they must be replaced as soon as possible.
+e. Fire Alarm System must be "On" and operationally ready at all times.
+f. Smoke or heat detectors must be properly and regularly maintained.
+<br>
+
