@@ -36,6 +36,8 @@ The meeting started with a welcome address by Mr Markham Shaw, Chairman of the N
 <div dir="auto">A total of five outgoing members who have stepped down were presented with appreciation plaques while the newly appointed members were presented with Letters of Appointment.</div>
 <div dir="auto">&nbsp;</div>
 
+	![](/images/nfec%20committee.png)
+	
 <div>
 <div style="text-align: justify;" dir="auto">A big thank you to everyone who made this year's AGM a great success! We look forward to working closely together in promoting fire safety and emergency preparedness to keep Singapore safe and secure.</div>
 <div style="text-align: justify;" dir="auto">&nbsp;</div>
