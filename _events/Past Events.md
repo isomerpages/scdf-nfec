@@ -26,18 +26,14 @@ description: ""
 
 <div>
 <div style="text-align: justify;" dir="auto">The NFEC held its 36th Annual General Meeting (AGM) at the Furama Riverfront Hotel on 27 July 2022. Presided by the four NFEC Officer Bearers, the meeting saw the attendance of close to 60 people, including Chairpersons from the respective committee, members of the Board of Directors, as well as members of the NFEC.</div>
-<div style="text-align: justify;" dir="auto">&nbsp;</div>
-<div style="text-align: justify;" dir="auto"><img height="300" width="400" src="images/NFEC_AGM_2.jpg" title="NFEC Office Bearers"></div>
-<div style="text-align: justify;" dir="auto">&nbsp;</div>
-<div style="text-align: justify;" dir="auto"><img alt="" src="../nfec_agm.jpg">The meeting started with a welcome address by Mr Markham Shaw, Chairman of the NFEC, followed by a review of the annual report, highlighting this year's key achievements and upcoming plans.</div>
-</div>
+<br>
+The meeting started with a welcome address by Mr Markham Shaw, Chairman of the NFEC, followed by a review of the annual report, highlighting this year's key achievements and upcoming plans.</div>
+
 <div style="text-align: justify;">&nbsp;</div>
 <div style="text-align: justify;">
 <div dir="auto">A total of five outgoing members who have stepped down were presented with appreciation plaques while the newly appointed members were presented with Letters of Appointment.</div>
 <div dir="auto">&nbsp;</div>
-<div dir="auto"><img height="250" width="500" src="images/NFEC_AGM.jpg"></div>
-<div dir="auto">&nbsp;</div>
-</div>
+
 <div>
 <div style="text-align: justify;" dir="auto">A big thank you to everyone who made this year's AGM a great success! We look forward to working closely together in promoting fire safety and emergency preparedness to keep Singapore safe and secure.</div>
 <div style="text-align: justify;" dir="auto">&nbsp;</div>
@@ -109,4 +105,4 @@ description: ""
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;</p></div>
