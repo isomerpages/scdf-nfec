@@ -44,3 +44,17 @@ Thank you to the outgoing members for your strong support and contributions to N
 
 ![](/images/appreciation%202.png)
 <center>Presentation of Retirement Letter to Ms Margaret Heng for her 24 years of sterling service to NFEC</center>
+<br>
+### Dialogue with Town Councils
+
+The NFEC Housing Premises Committee (HPC) had a fruitful virtual dialogue session with Town Councils on fire safety related topics on 24 Feb 2021.
+
+During the online session hosted by Chairman, NFEC HPC, the Singapore Civil Defence Force presented on the Town Council community first responders and shared updates on the active mobility situation in housing estates.
+
+Below are some useful advisories shared with the Town Councils during the dialogue.
+
+[Prevention of rubbish fires](https://www.scdf.gov.sg/docs/default-source/scdf-library/publications/publications/rubbish-fires-brochure.pdf)
+
+[Prevention of Battery Fires](https://www.scdf.gov.sg/docs/default-source/scdf-library/publications/publications/lr8516f_elcl.pdf)
+
+[Fire Safety Tips for PMDs and PABs](https://www.nfec.org.sg/site/images/LATEST_PMD_PAB_infographic.jpg)
