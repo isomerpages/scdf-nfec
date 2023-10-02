@@ -186,6 +186,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-
-<img src="images/mr%20k%20shanmugam2.png">
