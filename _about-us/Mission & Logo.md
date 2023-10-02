@@ -14,3 +14,5 @@ It comprises two key elements: a flame and the acronym of NFEC. The red and oran
 The unique, vertical arrangement of the acronym ‘NFEC’ is not only an attention grabber but also highlights a council that is constantly evolving based on the latest developments and changing times.<br>
 
 ![](/images/mr%20k%20shanmugam2.png)
+
+![](/images/nfec%20logo%20high%20res.jpg)
