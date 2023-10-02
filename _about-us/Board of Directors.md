@@ -23,7 +23,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td valign="top" align="center"><img alt="" src="images/mr k shanmugam2.png"></td>
+<td valign="top" align="center"><img alt="" src="images/mr%20k%20shanmugam2.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">Mr K Shanmugam</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Home Affairs and</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Law</strong></span></td>
