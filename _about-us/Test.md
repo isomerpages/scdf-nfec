@@ -23,7 +23,7 @@ description: ""
 	
 ### **Office Bearers**
 <div class="img-gallery">
-  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw%202.png">
 </div>
 <p><strong>Mr Markham Shaw</strong>
   <br>Chairman</p>
