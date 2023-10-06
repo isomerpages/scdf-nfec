@@ -22,6 +22,9 @@ description: ""
 	<br>Minister for Law</p>
 	
 ### **Office Bearers**
+<div class="img-gallery">
+  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+</div>
 <p><strong>Mr Markham Shaw</strong>
   <br>Chairman</p>
 	
@@ -33,5 +36,3 @@ description: ""
 	
 <p><strong>LTC Rayner Oon</strong>
   <br>Honorary Treasurer</p>
-	
-	
