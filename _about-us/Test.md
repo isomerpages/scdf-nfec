@@ -41,7 +41,7 @@ description: ""
   <br>Executive Director</p>
 
 <div class="img-gallery">
-  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+  <img alt="Mr K Shanmugam" title="Mr K Shanmugam" src="/images/min%20k%20shanmugam.jpeg">
 </div>
 <p><strong>LTC Rayner Oon</strong>
   <br>Honorary Treasurer</p>
