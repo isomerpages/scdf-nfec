@@ -14,8 +14,4 @@ sections:
       title: Latest NFEC Updates
       button: NFEC 2022 ANNUAL REPORT
       url: /resources/annual-reports/permalink/
-  - resources:
-      title: Latest NFEC Updates
-      id: resources
-      button: See all
 ---
