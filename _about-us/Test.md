@@ -5,7 +5,7 @@ description: ""
 ---
 ### Patron in Chief
 
-![](/images/min%20shanmugam.jfif)
+![](/images/min%20k%20shanmugam.jpeg)
 ##### Mr K Shanmugam
 Minister for Home Affairs and Minister for Law
 
