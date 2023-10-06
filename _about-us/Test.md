@@ -18,5 +18,9 @@ Minister for Home Affairs and Minister for Law
 
 ***
 ### Committees' Chairpersons
+![](/images/mr%20edwin%20yap.png) ![](/images/mr%20terence%20koh.png)
+**Mr Edwin Yap**
+Co-Chairman
+Industrial Premises Committee
 ***
 ### Members
