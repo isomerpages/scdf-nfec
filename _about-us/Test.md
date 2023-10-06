@@ -29,13 +29,13 @@ description: ""
   <br>Chairman</p>
 	
 <div class="img-gallery">
-  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+  <img alt="Mr John Wu" title="Mr John Wu" src="/images/mr%20john%20wu.png">
 </div>
 <p><strong>Mr John Wu</strong>
   <br>Vice-Chairman</p>
 
 <div class="img-gallery">
-  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+  <img alt="AC Michael Chua" title="AC Michael Chua" src="/images/ac%20michael%20chua.png">
 </div>
 <p><strong>AC Michael Chua</strong>
   <br>Executive Director</p>
