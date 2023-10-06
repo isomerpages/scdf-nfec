@@ -16,7 +16,6 @@ sections:
       url: /resources/annual-reports/permalink/
   - resources:
       title: Latest NFEC Updates
-      subtitle: Resources
       id: resources
-      button: More resources
+      button: See all
 ---
