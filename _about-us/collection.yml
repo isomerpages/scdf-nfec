@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - Mission & Logo.md
       - Board of Directors.md
       - Financial Information.md
