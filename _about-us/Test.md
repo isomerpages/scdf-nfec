@@ -22,6 +22,7 @@ description: ""
 	<br>Minister for Law</p>
 	
 ### **Office Bearers**
+
 <div class="img-gallery">
   <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw%202.png">
 </div>
