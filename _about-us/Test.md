@@ -28,11 +28,20 @@ description: ""
 <p><strong>Mr Markham Shaw</strong>
   <br>Chairman</p>
 	
+<div class="img-gallery">
+  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+</div>
 <p><strong>Mr John Wu</strong>
   <br>Vice-Chairman</p>
-	
+
+<div class="img-gallery">
+  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+</div>
 <p><strong>AC Michael Chua</strong>
   <br>Executive Director</p>
-	
+
+<div class="img-gallery">
+  <img alt="Mr Markham Shaw" title="Mr Markham Shaw" src="/images/mr%20markham%20shaw.png">
+</div>
 <p><strong>LTC Rayner Oon</strong>
   <br>Honorary Treasurer</p>
