@@ -35,7 +35,7 @@ description: ""
   <br>Vice-Chairman</p>
 
 <div class="img-gallery">
-  <img alt="AC Michael Chua" title="AC Michael Chua" src="/images/ac%20michael%20chua.png">
+  <img alt="AC Michael Chua" title="AC Michael Chua" src="/images/ac%20michael%20chua%202.png">
 </div>
 <p><strong>AC Michael Chua</strong>
   <br>Executive Director</p>
