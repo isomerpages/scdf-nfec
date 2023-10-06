@@ -1,6 +1,8 @@
 logo: /images/nfec logo high res.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Us
     collection: about-us
+  - title: Committee
+    collection: committee
+  - title: Contact Us
+    url: /contact-us/
