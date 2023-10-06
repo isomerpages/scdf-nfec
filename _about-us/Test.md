@@ -13,4 +13,8 @@ description: ""
   }
 </style>
 
+### **Patron In Chief**
 ![](/images/min%20k%20shanmugam.jpeg)
+ <p><strong>Mr K Shanmugam</strong>
+  <br>Minister for Home Affairs and
+	<br>Minister for Law</p>
