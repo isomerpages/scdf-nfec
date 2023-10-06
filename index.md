@@ -10,19 +10,6 @@ sections:
       background: /images/nfec fire safety seminar 2023.png
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: About Us
-          description: ""
-          url: /mission-logo/permalink
-        - title: Committee
-          description: ""
-          url: /industrial-partners/permalink
-        - title: Events
-          description: ""
-          url: /upcoming-events/permalink
-        - title: Resources
-          description: ""
-          url: /resources/general-fire-prevention-tips/permalink/
   - infobar:
       title: Latest NFEC Updates
       button: NFEC 2022 ANNUAL REPORT
