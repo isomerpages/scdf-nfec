@@ -11,6 +11,11 @@ Minister for Home Affairs and Minister for Law
 
 ***
 ### Office Bearers
+| ![](/images/mr%20markham%20shaw.png) | Column 2 | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| **Mr Makham Shaw** Chairman     | **Mr John Wu** Vice-chairman     | **AC MIchael Chua**     | **LTC Rayner Oon**     |
+| Chairman     | Vice-Chairman    | Executive Director   | Honorary Treasurer     |
+
 ***
 ### Committees' Chairpersons
 ***
