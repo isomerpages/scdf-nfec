@@ -2,7 +2,5 @@ logo: /images/nfec logo high res.jpg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Events
-    url: /upcoming-events/permalink
-  - title: About us
+  - title: About Us
     collection: about-us
