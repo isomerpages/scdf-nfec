@@ -29,7 +29,7 @@ description: ""
   <br>Chairman</p>
 	
 <div class="img-gallery">
-  <img alt="Mr John Wu" title="Mr John Wu" src="/images/mr%20john%20wu.png">
+  <img alt="Mr John Wu" title="Mr John Wu" src="/images/mr%20john%20wu%202.png">
 </div>
 <p><strong>Mr John Wu</strong>
   <br>Vice-Chairman</p>
