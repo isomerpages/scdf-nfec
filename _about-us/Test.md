@@ -20,3 +20,18 @@ description: ""
  <p><strong>Mr K Shanmugam</strong>
   <br>Minister for Home Affairs and
 	<br>Minister for Law</p>
+	
+### **Office Bearers**
+<p><strong>Mr Markham Shaw</strong>
+  <br>Chairman</p>
+	
+<p><strong>Mr John Wu</strong>
+  <br>Vice-Chairman</p>
+	
+<p><strong>AC Michael Chua</strong>
+  <br>Executive Director</p>
+	
+<p><strong>LTC Rayner Oon</strong>
+  <br>Honorary Treasurer</p>
+	
+	
