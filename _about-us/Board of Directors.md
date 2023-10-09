@@ -19,14 +19,14 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="#efefef" align="center" colspan="4" style="width: 100%;" class="pageSubSubTitle">
-<h4><span style="font-family: verdana, geneva, sans-serif;">Patron In Chief</span></h4>
+<h4><span align="center" style="font-family: verdana, geneva, sans-serif;">Patron In Chief</span></h4>
 </td>
 </tr>
 <tr>
 <td valign="top" align="center"><img src="/images/mr%20k%20shanmugam%205.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">Mr K Shanmugam</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Home Affairs and</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Law</strong></span></td>
+<td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">Mr K Shanmugam</span><br><span align="center" style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Home Affairs and</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Law</strong></span></td>
 </tr>
 </tbody>
 </table>
