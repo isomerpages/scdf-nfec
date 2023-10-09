@@ -12,7 +12,7 @@ description: ""
 #### JTC Corporation
 
 
-<img height="200" width="200" src="/images/jtc%20logo.png">
+<img height="100" width="100" src="/images/jtc%20logo.png">
 <br>
 <br>
 <br>
