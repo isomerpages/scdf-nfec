@@ -73,7 +73,7 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="#efefef" align="center" colspan="4">
-<h4><span style="font-family: verdana, geneva, sans-serif;">Committees' Chairpersons</span></h4>
+<center><h4><span style="font-family: verdana, geneva, sans-serif;">Committees' Chairpersons</span></h4></center>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="#efefef" align="center" colspan="4">
-<h4><span style="font-family: verdana, geneva, sans-serif;">Members</span></h4>
+<center><h4><span style="font-family: verdana, geneva, sans-serif;">Members</span></h4></center>
 </td>
 </tr>
 <tr>
