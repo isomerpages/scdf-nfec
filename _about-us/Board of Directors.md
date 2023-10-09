@@ -147,10 +147,10 @@ description: ""
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr&nbsp;Bernard Lew Buang Keng</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr&nbsp;Patrick Sim</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Bernard Soh</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Raizan Abdul Razak</td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
+	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Bernard Soh</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
@@ -165,10 +165,10 @@ description: ""
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Jonathan Tan</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Mr Chong Zunjie</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Ms Tong Sook Yuen</td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu">Ms Yen Tan</td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jonathan Tan</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chong Zunjie</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yuen</center></td>
+	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Yen Tan</center></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
