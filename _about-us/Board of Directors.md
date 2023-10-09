@@ -56,9 +56,9 @@ description: ""
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Markham Shaw<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">Mr John Wu</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Vice-Chairman</strong></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">AC Michael Chua</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter">LTC&nbsp;Rayner Oon</span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr John Wu<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Vice-Chairman</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Michael Chua<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>LTC&nbsp;Rayner Oon<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></center></span></td>
 </tr>
 </tbody>
 </table>
