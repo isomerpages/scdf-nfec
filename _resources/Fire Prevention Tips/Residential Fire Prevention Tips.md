@@ -4,7 +4,9 @@ permalink: /resources/residential-fire-prevention-tips/permalink/
 description: ""
 third_nav_title: Fire Prevention Tips
 ---
-![](/images/residential%20fire%20tips.png)
+<br>
+<img src="/images/residential%20fiire%20tips.png">
+<br>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Study room</strong></p>
 <ol style="text-align: justify;">
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Do not overload electrical outlets with too many extensions.</li>
@@ -14,7 +16,7 @@ third_nav_title: Fire Prevention Tips
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Use household electrical, electronics and gas appliances that bear the&nbsp;<br>
 <br>
 <img src="/images/safetymark.png">
-
+<br>
 </li><li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Have proper ashtrays and always extinguish matches and cigarette butts properly.</li>
 </ol>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Kitchen</strong></p>
