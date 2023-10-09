@@ -31,8 +31,8 @@ third_nav_title: Fire Prevention Tips
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Store LPG gas cylinder properly and check the pipe supplying the gas from time to time to ensure that it is properly fitted. Replace it when worn out.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Do not keep more than one LPG space cylinder at any time.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Never dispose lighted embers into the rubbish chute.
-<p>View&nbsp;<a rel="noopener noreferrer" target="_blank" href="http://s-one.internet.gov.sg/mha_scdf/Kitchen_Oil_Fire_LFB.wmv">Kitchen Oil Fire</a>&nbsp;(Video courtesy of London Fire Brigade)</p>
-</li>
+<p>
+</p></li>
 </ol>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Living Room</strong></p>
 <ol style="text-align: justify;">
