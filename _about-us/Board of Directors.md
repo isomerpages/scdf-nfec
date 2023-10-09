@@ -26,7 +26,7 @@ description: ""
 <td valign="top" align="center"><img src="/images/mr%20k%20shanmugam%205.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr K Shanmugam</center></span><br><span align="center" style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong><center>Minister For Home Affairs and</center></strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong><center>Minister For Law</center></strong></span></td>
+<td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr K Shanmugam<br><span align="center" style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Home Affairs and</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Law</strong></span></center></span></td>
 </tr>
 </tbody>
 </table>
