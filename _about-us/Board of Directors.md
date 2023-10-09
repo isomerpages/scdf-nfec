@@ -45,7 +45,7 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="#efefef" align="center" colspan="4" style="width: 100%;" class="pageSubSubTitle">
-<h4><span style="font-family: verdana, geneva, sans-serif;">Office Bearers</span></h4>
+<center><h4><span style="font-family: verdana, geneva, sans-serif;">Office Bearers</span></h4></center>
 </td>
 </tr>
 <tr>
