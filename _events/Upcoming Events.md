@@ -4,6 +4,9 @@ permalink: /upcoming-events/permalink/
 description: ""
 ---
 ### NFEC Fire Safety Seminar 2023: *'Learn: Apply: Share'*
+
+![](/images/nfec%20fire%20safety%20seminar%202023.png)
+
 <p>The NFEC will be holding its annual Fire Safety Seminar on&nbsp;<strong>Friday, 25 August 2023</strong>&nbsp;from 9.00 am – 1.00 pm at the Peony Ballroom, Level 4, Marina Bay Sands Convention Centre, 10 Bayfront Avenue, Singapore 018956.</p>
 <p>Please refer to the [brochure](/files/fire_safety_seminar_2023_brochure.pdf) of the Fire Safety Seminar. Fire Safety practitioners, Workplace Safety and Health Officers, fire safety products suppliers and other related personnel are encourage to sign up for the&nbsp; Seminar. Ten (10) CPD points will be allocated to FSMs and Four (4) SDU points for WSHOs who have successfully attended the half-day seminar.</p>
 <p>Important things to take note of:</p>
