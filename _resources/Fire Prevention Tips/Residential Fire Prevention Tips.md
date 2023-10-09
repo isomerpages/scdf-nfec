@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Fire Prevention Tips
 ---
 <br>
-<img src="/images/residential%20fiire%20tips.png">
+<img src="/images/residential%20fire%20tips.png">
 <br>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt"><strong>Study room</strong></p>
 <ol style="text-align: justify;">
