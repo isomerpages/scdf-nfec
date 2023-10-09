@@ -26,7 +26,7 @@ description: ""
 
 **Parking for vehicles:**
 <p><u>No</u>&nbsp;complimentary parking coupons will be given and participants are advise to take public transport.</p>
-<p>&nbsp;</p>
+
 <p><strong>Enquiries</strong></p>
 <p>For enquiries pertaining to the electronic registration, please email to&nbsp;<a href="mailto:events@asirs.org">events@asirs.org</a>&nbsp;or the Appointed Seminar Manager, ASIRS, Ms Bella, Tel 65920697.</p>
 <p>&nbsp;</p>
