@@ -11,7 +11,7 @@ description: ""
 <tbody>
 <tr>
 <td>
-<table align="center" cellpadding="0" cellspacing="0" border="0" style="width: 30%;">
+<table align="center" cellpadding="0" cellspacing="0" border="0" style="width: 50%;">
 <tbody>
 <tr>
 <td valign="top" align="center">
