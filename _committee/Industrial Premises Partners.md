@@ -11,7 +11,9 @@ description: ""
 
 #### JTC Corporation
 
-![](/images/jtc%20logo.png)<br>
+
+<img height="200" width="200" src="/images/jtc.png">
+<br>
 <br>
 <br>
 
