@@ -19,7 +19,7 @@ description: ""
 <tbody>
 <tr>
 <td bgcolor="#efefef" align="center" colspan="4" style="width: 100%;" class="pageSubSubTitle">
-<h4><span align="center" style="font-family: verdana, geneva, sans-serif;">Patron In Chief</span></h4>
+<center><h4><span align="center" style="font-family: verdana, geneva, sans-serif;">Patron In Chief</span></h4></center>
 </td>
 </tr>
 <tr>
