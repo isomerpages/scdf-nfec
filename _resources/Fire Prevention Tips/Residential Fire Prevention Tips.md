@@ -15,7 +15,7 @@ third_nav_title: Fire Prevention Tips
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Always make sure that you get the right watt of bulb for your table lamp since a higher watt might heat the lampshade and cause fire.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Use household electrical, electronics and gas appliances that bear the&nbsp;<br>
 <br>
-<img src="/images/safetymark.png">
+<img height="360" width="623" src="/images/safetymark.png">
 <br>
 </li><li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt">Have proper ashtrays and always extinguish matches and cigarette butts properly.</li>
 </ol>
