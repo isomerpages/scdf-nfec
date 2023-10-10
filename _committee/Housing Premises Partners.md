@@ -4,8 +4,7 @@ permalink: /housing-partners/permalink/
 description: ""
 ---
 #### CDC Planning and Development
-
-![](/images/cdc%20logo.png)<br>
+![](/images/cdc%20resized.png)<br>
 <br>
 <br>
 
