@@ -24,3 +24,15 @@ description: ""
 [Annual Report for the period of 2012 / 2013](https://go.gov.sg/nfec-annual-report-2013)
 
 [Annual Report for the period of 2011 / 2012](https://go.gov.sg/nfec-annual-report-2012)
+
+[Annual Report for the period of 2009 / 2010](/files/annual_report_2010.pdf)
+
+[Annual Report for the period of 2008 / 2009](/files/annual_report_2009.pdf)
+
+[Annual Report for the period of 2007 / 2008](/files/annual_report_2008.pdf)
+
+[Annual Report for the period of 2006 / 2007](/files/annual_report_2007.pdf)
+
+[Annual Report for the period of 2005 / 2006](/files/annual_report_2006.pdf)
+
+[Annual Report for the period of 2004 / 2005](/files/annual_report_2005.pdf)
