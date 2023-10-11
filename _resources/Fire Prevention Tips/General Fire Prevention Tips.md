@@ -125,12 +125,13 @@ Extinguishers may use water, dry powder, foam, or carbon dioxide as the extingui
 <br>
 
 
-| Type of fire | Recommended type of extinguisher | 
-| -------- | -------- | 
-| Fires arising from wood, cloth, or paper     | Water extinguisher     | 
-| Fires arising from flammable liquid    | Dry powder extinguisher, foam extinguisher     | 
-| Electrical fires    | Dry powder extinguisher, carbon dioxide extinguisher     | 
-<br>
+
+| Type of Fire | Recommended Type of Extinguisher |
+| -------- | -------- |
+| Fires arising from wood, cloth, or paper     | Water extinguisher     |
+| Fires arising from flammable liquid     | Dry powder extinguisher, foam extinguisher     |
+| Electrical fires     | Dry powder extinguisher, carbon dioxide extinguisher     |
+
 <br>
 #### Where to place a Fire Extinguisher
 <br>
