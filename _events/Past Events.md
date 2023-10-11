@@ -57,4 +57,4 @@ Below are some useful advisories shared with the Town Councils during the dialog
 
 [Prevention of Battery Fires](https://www.scdf.gov.sg/docs/default-source/scdf-library/publications/publications/lr8516f_elcl.pdf)
 
-[Fire Safety Tips for PMDs and PABs](https://www.nfec.org.sg/site/images/LATEST_PMD_PAB_infographic.jpg)
+[Fire Safety Tips for PMDs and PABs](https://go.gov.sg/latest-pmd-pab-infographic)
