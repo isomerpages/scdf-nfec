@@ -12,20 +12,20 @@ description: ""
 #### JTC Corporation
 
 
-<img height="100" width="100" src="/images/jtc%20logo.png">
+<img style="width:40%" src="/images/jtc%20logo.png">
 <br>
 <br>
 <br>
 
 #### Ministry of Manpower
 
-![](/images/ministry%20of%20manpower.png)<br>
+<img style="width:50%" src="/images/ministry%20of%20manpower.png">
 <br>
 <br>
 
 #### National Trades Union Congress
 
-![](/images/ntuc%20logo.png)<br>
+<img style="width:80%" src="/images/ntuc%20logo.png">
 <br>
 <br>
 
