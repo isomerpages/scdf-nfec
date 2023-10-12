@@ -5,7 +5,7 @@ description: ""
 ---
 #### Ministry of Education
 
-![](/images/moe%20logo.png)<br>
+<img style="width:50%" src="/images/moe%20logo.png">
 <br>
 <br>
 
