@@ -5,7 +5,7 @@ description: ""
 ---
 #### Fire Safety Managers' Association Singapore
 
-![](/images/fsmas%20logo.png)<br>
+<img style="width:50%" src="/images/fsmas%20logo.png">
 <br>
 <br>
 
@@ -31,7 +31,7 @@ description: ""
 
 #### Shipbuilding and Marine Engineering Employees' Union
 
-![](/images/shipbuilding%20union.png)<br>
+<img style="width:60%" src="/images/shipbuilding%20union.png">
 <br>
 <br>
 
@@ -43,22 +43,22 @@ description: ""
 
 #### Singapore Institution of Safety Officers
 
-![](/images/singapore%20institution.gif)<br>
+<img style="width:50%" src="/images/singapore%20institution.gif">
 <br>
 <br>
 
 #### Singapore Manufacturing Federation
 
-![](/images/smf%20logo.png)<br>
+<img style="width:70%" src="/images/smf%20logo.png">
 <br>
 <br>
 
 #### Singapore Timber Association
 
-![](/images/singapore%20timber%20logo.png)<br>
+<img style="width:40%" src="/images/singapore%20timber%20logo.png">
 <br>
 <br>
 
 #### The Singapore Contractors Association Ltd
 
-![](/images/singapore%20contractors%20association.png)
+<img style="width:50%" src="/images/singapore%20contractors%20association.png">
