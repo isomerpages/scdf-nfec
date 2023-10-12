@@ -5,19 +5,19 @@ description: ""
 ---
 #### CDC Planning and Development
 
-![](/images/cdc%20resized.png)<br>
+<img style="width:50%" src="/images/cdc%20resized.png">
 <br>
 <br>
 
 #### Housing Development Board
 
-![](/images/hdb%20logo.png)<br>
+<img style="width:50%" src="/images/hdb%20logo.png">
 <br>
 <br>
 
 #### People's Association
 
-![](/images/peoples%20association.png)<br>
+<img style="width:70%" src="/images/peoples%20association.png">
 <br>
 <br>
 
