@@ -23,7 +23,7 @@ description: ""
 
 #### Singapore Civil Defence Force
 
-![](/images/ot%20alpha.jpg)<br>
+<img style="width:70%" src="/images/ot%20alpha.jpg">
 <br>
 <br>
 
