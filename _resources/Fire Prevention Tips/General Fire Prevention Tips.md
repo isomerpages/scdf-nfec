@@ -15,7 +15,7 @@ third_nav_title: Fire Prevention Tips
 <br>
 #### Handling Sparklers
 
-![](/images/sparklers.png)
+<img style="width:70%" src="/images/sparklers.png">
 
 1. Sparklers should be kept in a closed box and away from flames.
 2. When being used, it should be lit at arm's length and only one at a time.
@@ -26,7 +26,7 @@ third_nav_title: Fire Prevention Tips
 <br>
 #### When to see a doctor
 
-![](/images/when%20to%20see%20a%20doctor.png)
+<img style="width:50%" src="/images/when%20to%20see%20a%20doctor.png">
 <br>
 <br>
 #### Treating Burns &amp; Scalds
@@ -107,11 +107,11 @@ The recommended type for use in Singapore is the photoelectric type.<br>
 <br>
 #### Operating a Manual Call Point and Hose Reel
 <br>
-![](/images/manual%20call%20point.png)
+<img style="width:40%" src="/images/manual%20call%20point.png">
 <br>
 In the event of a fire, break the glass of the nearest manual call point that you see.  This will cause the fire alarm system to sound throughout the building.<br>
 <br>
-![](/images/hose%20reel.png)<br>
+<img style="width:40%" src="/images/hose%20reel.png">
 * Turn on the hose reel valve before releasing the hose reel.<br>
 * Run out the hose.<br>
 * Turn on water at nozzle and direct the stream of water at the base of the fire.<br>
