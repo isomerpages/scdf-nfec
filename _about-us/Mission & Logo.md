@@ -7,7 +7,7 @@ description: ""
 The National Fire And Emergency Preparedness Council (NFEC) is committed towards promoting fire prevention and civil emergency preparedness to make Singapore safe and secure.<br>
 
 ### Logo
-![](/images/nfec%20logo%20high%20res.jpg)
+<img style="width:50%" src="/images/nfec%20logo%20high%20res.jpg">
 
 The logo has been redesigned with a refreshing outlook to invoke a renewed vigour, drive and purpose.<br>
 
