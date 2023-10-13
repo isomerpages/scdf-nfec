@@ -39,10 +39,10 @@ A total of seven outgoing members who will be stepping down were presented with 
 
 Thank you to the outgoing members for your strong support and contributions to NFEC in the past years! As we warmly welcome the new members into our NFEC family and see changes in committee members, one thing remain unchanged; our commitment towards promoting fire prevention and emergency preparedness, to make Singapore safe and secure.
 
-![](/images/appreciation%201.png)
-<center>Presentatioin of Appointment Letter to Chairman NFEC</center>
+<img style="width:80%" src="/images/appreciation%201.png">
+<center>Presentation of Appointment Letter to Chairman NFEC</center>
 
-![](/images/appreciation%202.png)
+<img style="width:80%" src="/images/appreciation%202.png">
 <center>Presentation of Retirement Letter to Ms Margaret Heng for her 24 years of sterling service to NFEC</center>
 <br>
 ### Dialogue with Town Councils
