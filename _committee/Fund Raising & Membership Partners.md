@@ -5,13 +5,13 @@ description: ""
 ---
 #### Singapore Hotel Association
 
-![](/images/singapore%20hotel%20association.png)<br>
+<img style="width:70%" src="/images/singapore%20hotel%20association.png">
 <br>
 <br>
 
 #### Singapore Retailers Association
 
-![](/images/singapore%20retailers%20association.png)<br>
+<img style="width:70%" src="/images/singapore%20retailers%20association.png">
 <br>
 <br>
 
