@@ -7,7 +7,7 @@ description: ""
 
 The National Fire and Emergency Preparedness Council (NFEC) held a ceremony to commemorate its 35 years of partnership with the community yesterday evening at Furama Riverfront Hotel. The ceremony was graced by Associate Professor Muhammad Faishal Ibrahim, Minister of State (MOS), Ministry of Home Affairs &amp; Ministry of National Development.
 <br>
-![](/images/nfec%20mos1.png)
+<img style="width:60%" src="/images/nfec%20mos1.png">
 
 Over the past 35 years, NFEC has worked relentlessly towards our mission of making Singapore a fire safe nation. From organising key events such as the upcoming Fire Safety Asia Conference (FiSAC), to going for post-fire sharing sessions with household residents, NFEC works with different stakeholders every day to serve the nation.
 
@@ -20,7 +20,7 @@ On top of the Anniversary Celebration, NFEC also gave out the Fire Safety Awards
 
 The NFEC held its 36th Annual General Meeting (AGM) at the Furama Riverfront Hotel on 27 July 2022. Presided by the four NFEC Officer Bearers, the meeting saw the attendance of close to 60 people, including Chairpersons from the respective committee, members of the Board of Directors, as well as members of the NFEC.
 
-![](/images/nfec%20meeting.png)
+<img style="width:60%" src="/images/nfec%20meeting.png">
 
 The meeting started with a welcome address by Mr Markham Shaw, Chairman of the NFEC, followed by a review of the annual report, highlighting this year's key achievements and upcoming plans.
 
