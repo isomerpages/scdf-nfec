@@ -18,7 +18,7 @@ c.&nbsp;No objects are to be placed along common corridors less than 1.2 m wide.
 d.&nbsp;No placement of items such as clothing racks unless they can be easily folded or removed in times of emergency so that they do not obstruct the escape route.
 <br>
 <br>
-![](/images/common%20corridor.png)
+<img style="width:60%" src="/images/common%20corridor.png">
 <br>
 ### Guidelines On Staircases and Landings
 
@@ -37,4 +37,4 @@ d. Lugs to the landing valves are to be checked regularly.  If they are missing,
 e. Fire Alarm System must be "On" and operationally ready at all times.
 f. Smoke or heat detectors must be properly and regularly maintained.
 <br>
-![](/images/ff%20provisions.png)
+<img style="width:60%" src="/images/ff%20provisions.png">
