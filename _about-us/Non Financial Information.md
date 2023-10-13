@@ -5,7 +5,7 @@ description: ""
 ---
 ### Name of Organisation
 
-National Fire and Emergency Preparedness Council
+**National Fire and Emergency Preparedness Council**
 
 Central Fire Station<br>
 62 Hill Street<br>
