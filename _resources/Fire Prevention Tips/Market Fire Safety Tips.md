@@ -14,7 +14,7 @@ third_nav_title: Fire Prevention Tips
 </tr>
 <tr>
 <td>
-<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img height="240" width="500" alt="" src="/images/market hazards.png"></p>
+<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img style="width:70%" src="/images/market hazards.png"></p>
 <p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px;" class="smalltxt"><strong>If you lose your business in a fire, you'll also lose your livelihood.&nbsp;<br>To avoid starting fires accidentally, observe the following simple guidelines.</strong></p>
 <ol>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Do not stack boxes around and above stall.</li>
