@@ -77,7 +77,7 @@ If you have to escape through smoke, keep low by crawling on your hands and knee
 
 **WHAT IS A SMOKE DETECTOR?**
 <br>
-![](/images/smoke%20detector.png)
+<img style="width:25%" src="/images/smoke%20detector.png">
 <br>
 A device to detect smoke and produce an alarm sound automatically.
 <br>
