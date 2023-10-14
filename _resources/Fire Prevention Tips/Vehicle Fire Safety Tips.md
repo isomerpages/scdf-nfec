@@ -14,7 +14,7 @@ third_nav_title: Fire Prevention Tips
 </tr>
 <tr>
 <td>
-<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img height="234" width="500" src="/images/vehicle%20safety.png"></p>
+<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img style="width:75%" src="/images/vehicle%20safety.png"></p>
 <ol>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Dismount when refuelling your motorcycle.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Turn off your engine when refuelling.</li>
