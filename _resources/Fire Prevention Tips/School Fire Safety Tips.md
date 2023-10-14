@@ -14,7 +14,7 @@ third_nav_title: Fire Prevention Tips
 </tr>
 <tr>
 <td>
-<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img height="218" width="500" alt="" src="/images/school safety.png"></p>
+<p style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: center;" class="smalltxt"><img style="width:70%" src="/images/school safety.png"></p>
 <ol>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Store flammable and combustible materials properly.</li>
 <li style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 15px; text-align: justify;" class="smalltxt">Always check and ensure that there is no gas leakage from the Bunsen burner. Do not keep papers or reading materials near an open fire.</li>
