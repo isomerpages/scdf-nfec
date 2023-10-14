@@ -24,7 +24,7 @@ d.&nbsp;No placement of items such as clothing racks unless they can be easily f
 
 Strictly no placement / storage of objects at staircases and the immediate staircase landing.
 <br>
-![](/images/staircase%20and%20landing.png)
+<img style="width:80%" src="/images/staircase%20and%20landing.png">
 <br>
 ### Guidelines On Maintenance of Fire Safety / Firefighting Provisions
 
