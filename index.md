@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nfec fire safety seminar 2.png
+      background: /images/nfec fire safety seminar 3.png
       button: Contact Us
       url: /contact-us/
   - infobar:
