@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /board-directors/permalink/
 description: ""
+variant: markdown
 ---
 <table cellpadding="0" cellspacing="0" border="1" style="width: 100%;">
 <tbody>
@@ -113,13 +114,13 @@ description: ""
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20simon%20gan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Chang_Fook_Yong.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/sac%20abdul%20razak.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20thuvinder%20singh.png">&nbsp;</td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20steven%20goh.png">&nbsp;</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr Simon Gan<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr Chang Fook Yong<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>SAC Abdul Razak<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Thuvinder Singh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Steven Goh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></td>
