@@ -1,0 +1,10 @@
+collections:
+  committee:
+    output: true
+    order:
+      - Industrial Premises Partners.md
+      - Commercial Premises Partners.md
+      - Housing Premises Partners.md
+      - Schools & Youth Partners.md
+      - Publicity Partners.md
+      - Fund Raising & Membership Partners.md
