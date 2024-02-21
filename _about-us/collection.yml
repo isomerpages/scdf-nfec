@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Mission & Logo.md
+      - Board of Directors.md
+      - Financial Information.md
+      - Non Financial Information.md
