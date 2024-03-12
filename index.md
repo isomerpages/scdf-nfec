@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/nfec fire safety seminar 2023 new.png
+      background: /images/NFEC_wallpaper_high_res.png
       button: Contact Us
       url: /contact-us/
   - infobar:
