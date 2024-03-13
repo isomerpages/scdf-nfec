@@ -4,7 +4,33 @@ permalink: /past-events/permalink/
 description: ""
 variant: tiptap
 ---
-<h3></h3>
+<h3>NFEC Appreciation and Welcome Ceremony 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_photo.jpg">
+</div>
+<p></p>
+<p>The NFEC Appreciation and Welcome Ceremony was held on 7 March 2024, for
+the outgoing and incoming members of the NFEC. The event took place at
+Four Points by Sheraton Singapore.</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appreciation.jpg">
+</div>
+<p>The outgoing members who have stepped down were presented with appreciation
+plaques in recognition for their contributions to the NFEC in the past
+years, while the newly appointed members were warmly welcomed to the NFEC
+family and presented with Letters of Appointment.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speech.jpg">
+</div>
+<p>The NFEC will continue with its mission to promote fire prevention and
+emergency preparedness to make Singapore a safe and secure home for all.</p>
+<p></p>
 <h3>NFEC Fire Safety Seminar 2023</h3>
 <p></p>
 <div class="isomer-image-wrapper">
