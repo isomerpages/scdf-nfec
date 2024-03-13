@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NFEC_wallpaper_high_res.png
+      background: /images/NFEC_wallpaper_high_res__2_.png
       button: Contact Us
       url: /contact-us/
   - infobar:
