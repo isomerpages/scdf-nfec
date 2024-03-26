@@ -116,13 +116,13 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Chang_Fook_Yong.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/sac%20abdul%20razak.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20thuvinder%20singh.png">&nbsp;</td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Raymond_Chin.png">&nbsp;</td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20steven%20goh.png">&nbsp;</td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr Chang Fook Yong<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>SAC Abdul Razak<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Thuvinder Singh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Chin<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Steven Goh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></td>
 </tr>
 </tbody>
@@ -144,13 +144,13 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20lew.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20patrick%20sim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20soh.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Michelle_Lam.jpg"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
-	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Bernard Soh</center></td>
+	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Michelle Lam</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
 </tr>
 <tr>
@@ -160,13 +160,13 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20jonathan%20tan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Jovan_Cai_Jinfeng.jpg"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20chong%20zunjie.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20tong%20sook%20yuen.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jonathan Tan</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jovan Cai Jinfeng</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chong Zunjie</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yuen</center></td>
 	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Yen Tan</center></td>
