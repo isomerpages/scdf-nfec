@@ -99,14 +99,14 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20raymond%20teo.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20robert%20ronald.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
-	<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Vacant.png"></td>
+	<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Vacant2.png"></td>
 <td valign="top" align="center" style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Teo<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Robert Ronald<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Leslie Williams<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Publicity Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Healthcare Committee      </strong><br></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Vacant<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Healthcare Committee      </strong><br></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="white-space: pre; font-family: verdana, geneva, sans-serif;"><br><br></span></td>
 </tr>
 <tr>
