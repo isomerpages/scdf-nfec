@@ -146,13 +146,13 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20lew.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20patrick%20sim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/Ms_Michelle_Lam.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20chong%20zunjie.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
-	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Michelle Lam</center></td>
+	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chong Zunjie</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
 </tr>
 <tr>
@@ -163,13 +163,13 @@ variant: markdown
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Mr_Jovan_Cai.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20chong%20zunjie.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Ms_Michelle_Lam.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20tong%20sook%20yuen.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jovan Cai Jinfeng</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chong Zunjie</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Michelle Lam</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yuen</center></td>
 	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Yen Tan</center></td>
 </tr>
