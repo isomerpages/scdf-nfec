@@ -12,6 +12,6 @@ sections:
       url: /contact-us/
   - infobar:
       title: Latest NFEC Updates
-      button: NFEC 2022 ANNUAL REPORT
-      url: /resources/annual-reports/permalink/
+      button: 4th NFEC Fire Safety Award
+      url: /upcoming-events/permalink/
 ---
