@@ -13,13 +13,13 @@ the Fire Safety Award 2023 (Year of Assessment - January 2022 to December
 2023) for all industrial and commercial premises in the following categories:</p>
 </li>
 </ol>
-<p> <strong><u>Industrial</u></strong>
+<p><strong><u>Industrial</u></strong>
 </p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Flatted Factories</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Warehouses</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp; Terrace Factories</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp; Others i.e. Refineries, Waste Recycling Plants</p>
-<p> <strong><u>Commercial</u></strong>
+<p><strong><u>Commercial</u></strong>
 </p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Office Buildings</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Hotels</p>
@@ -83,16 +83,17 @@ email to us the payment confirmation slip from the bank.</p>
 </p>
 <ol start="7">
 <li>
-<p>The closing date for submission is <strong>5 July 2024</strong>**.** The
-participation forms for the Industrial and Commercial Premises are attached
-for your submission. Please ensure the correct form is use when submitting
-the application.</p>
+<p>The closing date for submission is <strong>5 July 2024</strong>. The participation
+forms for the Industrial and Commercial Premises are attached for your
+submission. Please ensure the correct form is use when submitting the application.</p>
+<p></p>
 </li>
 <li>
 <p>The on-site judging will be conducted between <strong>July to September 2024</strong>.
 We seek your help to render assistance to our judges during the auditing
 period. Winners of the award will be notified officially for the award
 ceremony to be held in November 2024.</p>
+<p></p>
 </li>
 <li>
 <p>For any clarification, please contact us at 6332 3178. We look forward
