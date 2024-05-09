@@ -86,7 +86,10 @@ email to us the payment confirmation slip from the bank.</p>
 <p>The closing date for submission is <strong>5 July 2024</strong>. The participation
 forms for the Industrial and Commercial Premises are attached for your
 submission. Please ensure the correct form is use when submitting the application.</p>
-<p></p>
+<p><a href="/files/NFEC_FSA__Industrial__2024___Participation_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Participation Form - NFEC FSA (Industrial) 2024</a>
+</p>
+<p><a href="/files/NFEC_FSA__Commercial__2024___Participation_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Participation Form - NFEC FSA (Commercial) 2024</a>
+</p>
 </li>
 <li>
 <p>The on-site judging will be conducted between <strong>July to September 2024</strong>.
