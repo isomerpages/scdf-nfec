@@ -2,6 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Upcoming Events.md
+      - Upcoming Events/NFEC Fire Safety Award.md
       - Upcoming Events/.keep
       - Past Events.md
