@@ -10,8 +10,16 @@ sections:
       background: /images/NFEC_wallpaper_high_res__2_.png
       button: Contact Us
       url: /contact-us/
-  - infobar:
+  - textcards:
       title: Latest NFEC Updates
-      button: 4th NFEC Fire Safety Award
-      url: /upcoming-events/permalink/
+      id: textcards
+      cards:
+        - title: NFEC Fire Safety Seminar 2024
+          description: ""
+          linktext: Learn more
+          url: /upcoming-events/nfec-fire-safety-seminar-2024/
+        - title: 4th NFEC Fire Safety Award 2022/2023
+          description: ""
+          linktext: Learn more
+          url: /upcoming-events/4th-nfec-fire-safety-award/
 ---
