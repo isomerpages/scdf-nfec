@@ -19,8 +19,8 @@ have successfully attended the half-day seminar.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Registration is solely online via the link in the brochure and will commence
-on <strong><u>Wednesday, 15 May 2024 @ 8.00 am</u>.</strong>
+<p>Registration is solely online via the link in the brochure (<a rel="noopener noreferrer nofollow" target="_blank">https://www.tickettailor.com/events/nfec/1253074</a>)
+and will commence on <strong><u>Wednesday, 15 May 2024 @ 8.00 am</u>.</strong>
 </p>
 </li>
 <li>
