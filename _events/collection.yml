@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/NFEC Fire Safety Seminar 2024.md
       - Upcoming Events/4th NFEC Fire Safety Award.md
       - Upcoming Events/.keep
       - Past Events.md
