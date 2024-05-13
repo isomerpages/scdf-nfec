@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - NFEC Fire Safety Seminar 2024/.keep
-      - Upcoming Events.md
       - Past Events.md
