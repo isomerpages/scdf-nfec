@@ -52,7 +52,7 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20markham%20shaw.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20john%20wu.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/AC_Alan_Chow.jpg"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/AC_Alan_Chow.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img width="80" src="/images/LTC_Png_Yan_Da.png"></td>
 </tr>
 <tr>
