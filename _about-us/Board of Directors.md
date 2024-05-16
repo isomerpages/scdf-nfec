@@ -52,13 +52,13 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20markham%20shaw.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20john%20wu.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/ac%20michael%20chua.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/AC_Alan_Chow.jpg"></td>
 <td valign="top" align="center" style="width: 25%;"><img width="80" src="/images/LTC_Png_Yan_Da.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Markham Shaw<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr John Wu<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Vice-Chairman</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Michael Chua<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Alan Chow<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>LTC&nbsp;Png Yan Da<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></center></span></td>
 </tr>
 </tbody>
