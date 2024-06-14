@@ -25,5 +25,5 @@ sections:
         - title: NFEC Charity Film 2024
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /nfec-charity-film-2024/
 ---
