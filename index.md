@@ -22,4 +22,8 @@ sections:
           description: ""
           linktext: Learn more
           url: /upcoming-events/4th-nfec-fire-safety-award/
+        - title: NFEC Charity Film 2024
+          description: ""
+          linktext: Learn more
+          url: /nfec-charity-film-2024/
 ---
