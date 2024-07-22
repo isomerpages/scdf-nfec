@@ -146,13 +146,13 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20lew.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20patrick%20sim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20chong%20zunjie.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Mr_Joshua_Lo.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
-	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chong Zunjie</center></td>
+	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Joshua Lo</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
 </tr>
 <tr>
