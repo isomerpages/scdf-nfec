@@ -55,7 +55,6 @@ description: ""
 <h2><strong>Fire safety begins at home</strong></h2>
 <p>Recognising potential risks and taking preventive measures can significantly
 reduce the likelihood of fire incidents.</p>
-<p></p>
 <h3><strong>How does it work?</strong></h3>
 <p><strong>Assessment: </strong>Through a series of 10 targeted questions,
 we will help you identify common fire risks within your home.</p>
@@ -63,7 +62,6 @@ we will help you identify common fire risks within your home.</p>
 specific recommendations tailored to mitigate these risks.</p>
 <p><strong>Action: </strong>Prevention is paramount. We strongly urge you
 to adopt the suggested measures, thereby proactively eliminating fire hazards.</p>
-<p></p>
 <h3><strong>Data Privacy</strong></h3>
 <p>Please be assured that this website operates without collecting any personal
 data.</p>
