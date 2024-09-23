@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home_Fire_Safety_Checker_logo.gif">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Home_Fire_Safety_Checker_logo.gif">
 </div>
 <h3><strong>Home Fire Safety Checker</strong></h3>
 <blockquote>
@@ -15,14 +15,28 @@ description: ""
 <p></p>
 <p><strong>Brought to you by</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFEC_logo__small_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NFEC_logo__small_.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCDF_logo__very_small_.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SCDF_logo__very_small_.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong>Fire safety begins at home</strong></h2>
 <p>Recognising potential risks and taking preventive measures can significantly
 reduce the likelihood of fire incidents.</p>
