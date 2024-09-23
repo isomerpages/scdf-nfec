@@ -19,6 +19,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NFEC_logo__small_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCDF_logo__very_small_.jpg">
+</div>
 <h2><strong>Fire safety begins at home</strong></h2>
 <p>Recognising potential risks and taking preventive measures can significantly
 reduce the likelihood of fire incidents.</p>
