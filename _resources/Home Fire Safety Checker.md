@@ -10,3 +10,8 @@ description: ""
 </div>
 <h3><strong>Home Fire Safety Checker</strong></h3>
 <p></p>
+<h2><strong>Fire safety begins at home</strong></h2>
+<p>Recognising potential risks and taking preventive measures can signifcantly
+reduce the likelihood of fire incidents.</p>
+<p></p>
+<p></p>
