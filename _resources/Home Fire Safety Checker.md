@@ -25,7 +25,7 @@ description: ""
 </tbody>
 </table>
 <blockquote>
-<p>Do a self-check for your home's fire safety <a href="https://home-fire-safety-checker.vercel.app" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>Do a self-check for your home's fire safety <strong><a href="https://home-fire-safety-checker.vercel.app" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
 </blockquote>
 <p></p>
 <p><strong>Brought to you by</strong>
