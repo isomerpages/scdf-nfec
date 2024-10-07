@@ -38,8 +38,8 @@ Professor Lock Kai Sang, Singapore Institute of Technology</p>
 Mr Terrence Teo, Hilti Asia Pacific</p>
 <p><a href="/files/The_Safety_Case_Regime_for_Major_Hazard_Installations.pdf" rel="noopener noreferrer nofollow" target="_blank">The Safety Case Regime for Major Hazard Installations</a> by
 Jaime Lim, Occupational Safety and Health Division, Ministry of Manpower</p>
-<p>Enforcement Statistics &amp; Common Fire Safety Non-compliances by CPT
-Sonia Chin, Fire Safety Department, SCDF</p>
+<p><a href="/files/Enforcement_Statistics.pdf" rel="noopener noreferrer nofollow" target="_blank">Enforcement Statistics &amp; Common Fire Safety Non-compliances</a> by
+CPT Sonia Chin, Fire Safety Department, SCDF</p>
 <p>Fire Statistics &amp; Case Studies by MAJ Nick Li, Fire Investigation
 Unit, SCDF</p>
 <p></p>
