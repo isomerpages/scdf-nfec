@@ -40,6 +40,6 @@ Mr Terrence Teo, Hilti Asia Pacific</p>
 Jaime Lim, Occupational Safety and Health Division, Ministry of Manpower</p>
 <p><a href="/files/Enforcement_Statistics.pdf" rel="noopener noreferrer nofollow" target="_blank">Enforcement Statistics &amp; Common Fire Safety Non-compliances</a> by
 CPT Sonia Chin, Fire Safety Department, SCDF</p>
-<p>Fire Statistics &amp; Case Studies by MAJ Nick Li, Fire Investigation
-Unit, SCDF</p>
+<p><a href="/files/Fire_Statistics_and_Case_Studies.pdf" rel="noopener noreferrer nofollow" target="_blank">Fire Statistics &amp; Case Studies</a> by
+MAJ Nick Li, Fire Investigation Unit, SCDF</p>
 <p></p>
