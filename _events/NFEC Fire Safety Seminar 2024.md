@@ -34,7 +34,8 @@ and partners towards building a fire safe and emergency prepared Singapore.</p>
 <p>Please find below, the presentation slides from the various speakers:</p>
 <p><a href="/files/Electrical_Protection_of_Battery_Energy_Storage_Systems_against_Fire_Hazards.pdf" rel="noopener noreferrer nofollow" target="_blank">Electrical Protection of Battery Energy Storage Systems against Fire Hazards</a> by
 Professor Lock Kai Sang, Singapore Institute of Technology</p>
-<p>One Fire, One Location by Mr Terrence Teo, Hilti Asia Pacific</p>
+<p><a href="/files/One_Fire_One_Location.pdf" rel="noopener noreferrer nofollow" target="_blank">One Fire, One Location</a> by
+Mr Terrence Teo, Hilti Asia Pacific</p>
 <p>The Safety Case Regime for Major Hazard Installations by Jaime Lim, Occupational
 Safety and Health Division, Ministry of Manpower</p>
 <p>Enforcement Statistics &amp; Common Fire Safety Non-compliances by CPT
