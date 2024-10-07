@@ -32,14 +32,13 @@ latest fire safety developments and trends.</p>
 <p>The NFEC remains committed to working closely with its valued stakeholders
 and partners towards building a fire safe and emergency prepared Singapore.</p>
 <p>Please find below, the presentation slides from the various speakers:</p>
-<p>Electrical Protection of Battery Energy Storage Systems against Fire Hazards</p>
-<p>by Professor Lock Kai Sang, Singapore Institute of Technology</p>
-<p>One Fire, One Location</p>
-<p>by Mr Terrence Teo, Hilti Asia Pacific</p>
-<p>The Safety Case Regime for Major Hazard Installations</p>
-<p>by Jaime Lim, Occupational Safety and Health Division, Ministry of Manpower</p>
-<p>Enforcement Statistics &amp; Common Fire Safety Non-compliances</p>
-<p>CPT Sonia Chin, Fire Safety Department, SCDF</p>
-<p>Fire Statistics &amp; Case Studies</p>
-<p>MAJ Nick Li, Fire Investigation Unit, SCDF</p>
+<p>Electrical Protection of Battery Energy Storage Systems against Fire Hazards
+by Professor Lock Kai Sang, Singapore Institute of Technology</p>
+<p>One Fire, One Location by Mr Terrence Teo, Hilti Asia Pacific</p>
+<p>The Safety Case Regime for Major Hazard Installations by Jaime Lim, Occupational
+Safety and Health Division, Ministry of Manpower</p>
+<p>Enforcement Statistics &amp; Common Fire Safety Non-compliances by CPT
+Sonia Chin, Fire Safety Department, SCDF</p>
+<p>Fire Statistics &amp; Case Studies by MAJ Nick Li, Fire Investigation
+Unit, SCDF</p>
 <p></p>
