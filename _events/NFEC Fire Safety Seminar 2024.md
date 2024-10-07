@@ -36,8 +36,8 @@ and partners towards building a fire safe and emergency prepared Singapore.</p>
 Professor Lock Kai Sang, Singapore Institute of Technology</p>
 <p><a href="/files/One_Fire_One_Location.pdf" rel="noopener noreferrer nofollow" target="_blank">One Fire, One Location</a> by
 Mr Terrence Teo, Hilti Asia Pacific</p>
-<p>The Safety Case Regime for Major Hazard Installations by Jaime Lim, Occupational
-Safety and Health Division, Ministry of Manpower</p>
+<p><a href="/files/The_Safety_Case_Regime_for_Major_Hazard_Installations.pdf" rel="noopener noreferrer nofollow" target="_blank">The Safety Case Regime for Major Hazard Installations</a> by
+Jaime Lim, Occupational Safety and Health Division, Ministry of Manpower</p>
 <p>Enforcement Statistics &amp; Common Fire Safety Non-compliances by CPT
 Sonia Chin, Fire Safety Department, SCDF</p>
 <p>Fire Statistics &amp; Case Studies by MAJ Nick Li, Fire Investigation
