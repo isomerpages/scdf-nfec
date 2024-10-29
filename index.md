@@ -2,7 +2,7 @@
 layout: homepage
 title: National Fire and Emergency Preparedness Council
 description: Brief site description here
-image: /images/NFEC_New_Logo_2024_High_Res.png
+image: /images/NFEC_New_Logo_2024___Header.png
 permalink: /
 notification: ""
 sections:
