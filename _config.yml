@@ -1,6 +1,6 @@
 title: National Fire and Emergency Preparedness Council
 url: https://www.nfec.org.sg
-favicon: /images/NFEC_New_Logo_2024_High_Res.png
+favicon: /images/NFEC_New_Logo_2024___Header.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.dzi12s0kilyye.amplifyapp.com
 prod: https://master.dzi12s0kilyye.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/NFEC_New_Logo_2024_High_Res.png
+shareicon: /images/NFEC_New_Logo_2024___Header.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
