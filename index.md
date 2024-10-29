@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/NFEC_wallpaper_high_res__2_.png
+      background: /images/NFEC_New_Logo_2024___Hero_Banner.png
       button: Contact Us
       url: /contact-us/
   - textcards:
