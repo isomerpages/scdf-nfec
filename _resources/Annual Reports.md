@@ -4,7 +4,8 @@ permalink: /resources/annual-reports/permalink/
 description: ""
 variant: tiptap
 ---
-<p>Annual Report for the period of 2023 / 2024</p>
+<p><a href="https://www.nfec.org.sg/files/nfec_annual_report_wy2023_2024.pdf" rel="noopener nofollow" target="_blank">Annual Report for the period of 2023 / 2024</a>
+</p>
 <p><a href="/files/nfec_ar_2023_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report for the period 2022 / 2023</a>
 </p>
 <p><a href="/files/nfec%20ar%202021_v9_lr_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report for the period 2021 / 2022</a>
