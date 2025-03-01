@@ -6,11 +6,12 @@ description: ""
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Home_Fire_Safety_Checker_logo.gif">
-</div>
 <blockquote>
-<p>Do a self-check for your home's fire safety <strong><a href="https://home-fire-safety-checker.vercel.app" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Home_Fire_Safety_Checker.jpg">
+</div>
+<p>Do a self-check for your home's fire safety <strong><a href="https://homefiresafetychecker.sg" rel="noopener nofollow" target="_blank">here</a></strong>!</p>
 </blockquote>
 <p></p>
 <p><strong>Brought to you by</strong>
