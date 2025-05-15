@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - Past Events/4th NFEC Fire Safety Award.md
-      - Past Events/NFEC Charity Film 2024.md
-      - Past Events/Other Past Events.md
-      - Past Events/NFEC Fire Safety Seminar 2024.md
       - Past Events/.keep
+      - Past Events/NFEC Fire Safety Seminar 2024.md
+      - Past Events/NFEC Charity Film 2024.md
+      - Past Events/4th NFEC Fire Safety Award.md
+      - Past Events/Other Past Events.md
       - Upcoming Events/NFEC Fire Safety Seminar 2024.md
       - Upcoming Events/.keep
