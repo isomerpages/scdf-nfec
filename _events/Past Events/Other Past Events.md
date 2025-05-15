@@ -1,8 +1,9 @@
 ---
-title: Past Events
+title: Other Past Events
 permalink: /past-events/permalink/
 description: ""
 variant: tiptap
+third_nav_title: Past Events
 ---
 <h3>NFEC Appreciation and Welcome Ceremony 2024</h3>
 <p></p>

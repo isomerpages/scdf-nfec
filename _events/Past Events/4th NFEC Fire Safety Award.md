@@ -3,7 +3,7 @@ title: 4th NFEC Fire Safety Award
 permalink: /upcoming-events/4th-nfec-fire-safety-award/
 description: ""
 variant: tiptap
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <h3>4th NFEC Fire Safety Award 2022/2023 (Industrial and Commercial Premises)</h3>
 <ol data-tight="true" class="tight">
