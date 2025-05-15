@@ -14,16 +14,8 @@ sections:
       title: Latest NFEC Updates
       id: textcards
       cards:
-        - title: NFEC Fire Safety Seminar 2024
+        - title: NFEC Fire Safety Seminar 2025
           description: ""
           linktext: Learn more
-          url: /upcoming-events/nfec-fire-safety-seminar-2024/
-        - title: 4th NFEC Fire Safety Award 2022/2023
-          description: ""
-          linktext: Learn more
-          url: /upcoming-events/4th-nfec-fire-safety-award/
-        - title: NFEC Charity Film 2024
-          description: ""
-          linktext: Learn more
-          url: /nfec-charity-film-2024/
+          url: /upcoming-events/nfec-fire-safety-seminar-2025/
 ---
