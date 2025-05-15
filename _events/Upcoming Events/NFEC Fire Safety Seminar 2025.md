@@ -59,7 +59,8 @@ are advised to take public transport.</p>
 to <a rel="noopener noreferrer nofollow" target="_blank">events@asirs.org</a> or
 the Appointed Seminar Manager, ASIRS, Ms Bella, Tel 65920697.</p>
 <p>More details can be found in the attached brochure.</p>
-<p><a href="/files/Brochure___NFEC_FIRE_SAFETY_SEMINAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure - NFEC Fire Safety Seminar 2025</a>
+<p><a href="/files/Brochure___NFEC_FIRE_SAFETY_SEMINAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Brochure - NFEC Fire Safety </a>
+<a href="/files/Brochure___NFEC_Fire_Saftey_Seminar_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Semin</a><a href="/files/Brochure___NFEC_FIRE_SAFETY_SEMINAR_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ar 2025</a>
 </p>
 <p>Thank you.</p>
 <p>&nbsp;</p>
