@@ -14,6 +14,10 @@ sections:
       title: Latest NFEC Updates
       id: textcards
       cards:
+        - title: NFEC Annual Report 2024/2025
+          description: ""
+          linktext: Learn more
+          url: https://www.nfec.org.sg/files/NFEC_Annual_Report_WY24_25.pdf
         - title: NFEC Fire Safety Seminar 2025
           description: ""
           linktext: Learn more
