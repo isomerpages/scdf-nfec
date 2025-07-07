@@ -4,6 +4,8 @@ permalink: /resources/annual-reports/permalink/
 description: ""
 variant: tiptap
 ---
+<p><a href="/files/nfec_annual_report_wy24_25.pdf" rel="noopener nofollow" target="_blank">Annual Report for the period of 2024 / 2025</a>
+</p>
 <p><a href="/files/NFEC_Annual_Report_WY23_24.pdf" rel="noopener nofollow" target="_blank">Annual Report for the period of 2023 / 2024</a>
 </p>
 <p><a href="/files/nfec_ar_2023_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Annual Report for the period 2022 / 2023</a>
