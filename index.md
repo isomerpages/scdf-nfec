@@ -17,7 +17,7 @@ sections:
         - title: NFEC Annual Report 2024/2025
           description: ""
           linktext: Learn more
-          url: /files/NFEC_Annual_Report_WY24_25.pdf
+          url: https://www.nfec.org.sg/files/nfec_annual_report_wy24_25.pdf
         - title: NFEC Fire Safety Seminar 2025
           description: ""
           linktext: Learn more
