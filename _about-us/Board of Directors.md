@@ -240,10 +240,10 @@ variant: markdown
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
 </td>
 </tr>
@@ -260,7 +260,7 @@ variant: markdown
 <br><strong>Housing Premises Committee</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p></p>
 <p>AC Leslie Williams
 <br><strong>Chairman</strong>
