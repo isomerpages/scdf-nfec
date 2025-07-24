@@ -156,7 +156,7 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20tong%20sook%20yuen.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Ms_Tong_Sook_Yean.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
 </tr>
 <tr>
