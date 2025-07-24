@@ -262,12 +262,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>AC Leslie Williams
-<br><strong>Chairman</strong>
+<p></p><center>AC Leslie Williams
+<br><strong></strong><center><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
-</p>
 <p></p>
-</td>
+<p></p>
+</center></center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
