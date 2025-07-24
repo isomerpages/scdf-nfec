@@ -97,7 +97,7 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png"></td>
 <td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png"></td>
-<td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
+<td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png"></td>
 
 </tr>
 <tr>
