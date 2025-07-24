@@ -79,7 +79,7 @@ variant: markdown
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Edwin_Yap.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20terence%20koh.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Terence_Koh.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20chris%20tan.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20benedict%20koh.png"></td>
 </tr>
