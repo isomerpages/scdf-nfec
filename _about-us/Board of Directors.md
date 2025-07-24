@@ -58,11 +58,11 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<p><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
-</p>
+<p><strong></strong></p><center><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
 <p></p>
 <p></p>
-</td>
+<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
