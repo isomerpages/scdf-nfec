@@ -110,8 +110,8 @@ variant: markdown
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chang_Fook_Yong.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Abdul_Razak.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Raymond_Chin.png">&nbsp;</td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20steven%20goh.png">&nbsp;</td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Chin.png">&nbsp;</td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">&nbsp;</td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr Chang Fook Yong<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></span></td>
