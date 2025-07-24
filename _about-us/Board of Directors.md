@@ -57,10 +57,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong></strong></p><center><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
+<p></p>
+<p><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
+</p>
 <p></p>
 <p></p>
-</center></td>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -234,8 +236,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
 </div>
-	</td>
-	<td rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png">
 </div>
@@ -245,13 +247,16 @@ variant: tiptap
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
 </td>
-	</tr><tr>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p></p><center>Mr Raymond Teo<p></p>
-<strong>Co-Chairman</strong>
-<br><strong>Housing Premises Committee</strong>
+<p>Mr Raymond Teo</p>
 <p></p>
-</center></td>
+<p><strong>Co-Chairman</strong>
+<br><strong>Housing Premises Committee</strong>
+</p>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Robert Ronald</p>
 <p><strong>Co-Chairman</strong>
