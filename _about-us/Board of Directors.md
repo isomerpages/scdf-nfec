@@ -108,8 +108,8 @@ variant: markdown
 <tr>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Chang_Fook_Yong.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/sac%20abdul%20razak.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chang_Fook_Yong.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Abdul_Razak.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Raymond_Chin.png">&nbsp;</td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20steven%20goh.png">&nbsp;</td>
 </tr>
