@@ -257,10 +257,9 @@ variant: markdown
 <p>Mr Robert Ronald
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
-</p>
-</td>
+</p><p>
+	</p></td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p><center>AC Leslie Williams
 <br><strong></strong><center><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
