@@ -157,12 +157,12 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Ms_Tong_Sook_Yean.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Ms_Yen_Tan.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jovan Cai Jinfeng</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jovan Cai</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Michelle Lam</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yuen</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yean</center></td>
 	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Yen Tan</center></td>
 </tr>
 <tr>
