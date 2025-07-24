@@ -263,7 +263,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1.33">
-<p>AC Leslie Williams <strong>Chairman</strong>
+<p>AC Leslie Williams <strong></strong></p><p><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
 </p>
 </td>
