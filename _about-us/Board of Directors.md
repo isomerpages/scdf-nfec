@@ -244,10 +244,9 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+	</td>
+	</tr>
+<tr><td rowspan="1" colspan="1">
 <p>Mr Raymond Teo
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
@@ -255,6 +254,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Robert Ronald
+	</p><p>
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p><p>
