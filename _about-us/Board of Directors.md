@@ -2,7 +2,7 @@
 title: Board of Directors
 permalink: /board-directors/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 25px">
 <colgroup>
@@ -56,11 +56,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><center><strong>Mr K Shanmugam
-<br><strong>Minister For Home Affairs and</strong>
-<br><strong>Minister For Law</strong>
 <p></p>
-</strong></center></td>
+<p><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
+</p>
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -117,7 +117,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png">
+<img style="width: 95%" height="auto" width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png">
 </div>
 </td>
 </tr>
@@ -180,12 +180,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png">
+<img style="width: 85%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
+<img style="width: 85%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
 </div>
 </td>
 </tr>
@@ -230,9 +230,9 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
+<img style="width: 49%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,30 +242,59 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
-	</td>
-	</tr>
-<tr><td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Mr Raymond Teo
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Robert Ronald
-	</p><p>
-<br><strong>Co-Chairman</strong>
+<p>Mr Robert Ronald</p>
+<p><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
-</p><p>
-	</p></td>
+</p>
+</td>
 <td rowspan="1" colspan="1">
-<p></p><center>AC Leslie Williams
-<br><strong></strong><center><strong>Chairman</strong>
+<p>AC Leslie Williams <strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-</center></center></td>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
