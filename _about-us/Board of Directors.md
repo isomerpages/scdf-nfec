@@ -182,12 +182,12 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
 </div>
 </td>
 </tr>
