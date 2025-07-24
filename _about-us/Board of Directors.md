@@ -53,13 +53,13 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Markham_Shaw.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_John_Wu.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Alan_Chow.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img width="80" src="/images/LTC_Png_Yan_Da.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Markham Shaw<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span></center></span></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr John Wu<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Vice-Chairman</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Alan Chow<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>LTC&nbsp;Png Yan Da<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>SAC Alan Chow<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>COL&nbsp;Png Yan Da<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></center></span></td>
 </tr>
 </tbody>
 </table>
