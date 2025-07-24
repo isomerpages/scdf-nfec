@@ -251,7 +251,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Raymond Teo</p>
-<p></p>
 <p><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
