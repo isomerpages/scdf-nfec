@@ -57,10 +57,10 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
-</p>
+<p><strong></strong></p><center><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
 <p></p>
-</td>
+<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -248,11 +248,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Raymond Teo
+<p></p><center>Mr Raymond Teo
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
-</p>
-</td>
+<p></p>
+</center></td>
 <td rowspan="1" colspan="1">
 <p>Mr Robert Ronald</p>
 <p><strong>Co-Chairman</strong>
