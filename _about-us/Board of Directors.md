@@ -2,7 +2,7 @@
 title: Board of Directors
 permalink: /board-directors/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 25px">
 <colgroup>
@@ -41,7 +41,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Mr_K_Shanmugam_new.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/Mr_K_Shanmugam_new.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,6 +241,7 @@ variant: markdown
 </div>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
@@ -260,10 +261,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="2">
+<p></p>
 <p>AC Leslie Williams
 <br><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
