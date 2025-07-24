@@ -244,7 +244,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1.33">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
 </td>
 </tr>
