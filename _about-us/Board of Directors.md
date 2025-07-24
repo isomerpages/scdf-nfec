@@ -393,12 +393,12 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
