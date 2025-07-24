@@ -54,7 +54,7 @@ emergencies.
 </p>
 <h3>IPC Status</h3>
 <p><strong>Effective Date</strong>:
-<br>29062021 - 28062024
+<br>29062024 – 28062027
 <br>
 <br><em>A Member of NCSS Central Fund</em>
 <br>
