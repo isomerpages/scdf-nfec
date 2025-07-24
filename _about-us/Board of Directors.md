@@ -136,7 +136,7 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20lew.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20patrick%20sim.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Mr_Joshua_Lo.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
