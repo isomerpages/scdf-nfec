@@ -90,30 +90,22 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Benedict Koh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Commercial Premises Committee</strong></span></center></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20robert%20ronald.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
-	
-<td valign="top" align="center" style="width: 25%;">&nbsp;</td>
+<td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png"></td>
+<td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png"></td>
+<td valign="top" align="center" style="width: 33%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
+
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Teo<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Robert Ronald<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Leslie Williams<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Publicity Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Vacant<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Healthcare Committee      </strong><br></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="white-space: pre; font-family: verdana, geneva, sans-serif;"><br><br></span></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Teo<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></span></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><center>Mr Robert Ronald<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></td>
+<td valign="top" align="center" style="width: 33%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Leslie Williams<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Publicity Committee</strong></span></center></span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Chang_Fook_Yong.png"></td>
