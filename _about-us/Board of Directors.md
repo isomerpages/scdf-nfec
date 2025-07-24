@@ -96,10 +96,10 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20raymond%20teo.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20robert%20ronald.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
-	<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Vacant2.png"></td>
+	
 <td valign="top" align="center" style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
