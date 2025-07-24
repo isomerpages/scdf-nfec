@@ -139,11 +139,11 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Joshua_Lo.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img src="/images/Board%20of%20Directors%20July%202025/Mr_Raizan_Abdul_Razak.png"></td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew </center></td>
+<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Tok Hock Soon</center></td>
 	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Joshua Lo</center></td>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
 </tr>
