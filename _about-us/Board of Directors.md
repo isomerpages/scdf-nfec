@@ -81,7 +81,7 @@ variant: markdown
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Edwin_Yap.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Terence_Koh.png"></td>
 <td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20benedict%20koh.png"></td>
+<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png"></td>
 </tr>
 <tr>
 <td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Edwin Yap<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Industrial Premises Committee</strong></span></center></td>
