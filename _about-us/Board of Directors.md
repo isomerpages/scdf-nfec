@@ -41,7 +41,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/Mr_K_Shanmugam_new.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Mr_K_Shanmugam_new.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,10 +232,10 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 49%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+	</td>
+	<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png">
 </div>
@@ -245,11 +245,10 @@ variant: markdown
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
 </td>
-</tr>
-<tr>
+	</tr><tr>
 <td rowspan="1" colspan="2">
-<p></p><center>Mr Raymond Teo
-<br><strong>Co-Chairman</strong>
+<p></p><center>Mr Raymond Teo<p></p>
+<strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 <p></p>
 </center></td>
