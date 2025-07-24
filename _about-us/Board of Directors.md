@@ -323,13 +323,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Chin.png">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Chin.png">
 </div>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">
+<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">
 </div>
 <p>&nbsp;</p>
 </td>
@@ -390,12 +390,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -440,12 +440,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png">
+<img style="width: 90%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
