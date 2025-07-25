@@ -119,28 +119,28 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%" height="auto" width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png">
+<img style="width: 100%" height="auto" width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Markham Shaw
+<p style="font-size: 10px;">Mr Markham Shaw
 <br><strong>Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr John Wu
+<p style="font-size: 10px;">Mr John Wu
 <br><strong>Vice-Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">SAC Alan Chow
+<p style="font-size: 10px;">SAC Alan Chow
 <br><strong>Executive Director</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">COL&nbsp;Png Yan Da
+<p style="font-size: 10px;">COL&nbsp;Png Yan Da
 <br><strong>Honorary Treasurer</strong>
 </p>
 </td>
@@ -187,31 +187,31 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
+<img style="width: 93%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Edwin Yap
+<p style="font-size: 10px;">Mr Edwin Yap
 <br><strong>Co-Chairman</strong>
 <br><strong>Industrial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Terence Koh
+<p style="font-size: 10px;">Mr Terence Koh
 <br><strong>Co-Chairman</strong>
 <br><strong>Industrial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Chris Tan
+<p style="font-size: 10px;">Mr Chris Tan
 <br><strong>Co-Chairman</strong>
 <br><strong>Commercial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Benedict Koh
+<p style="font-size: 10px;">Mr Benedict Koh
 <br><strong>Co-Chairman</strong>
 <br><strong>Commercial Premises Committee</strong>
 </p>
@@ -244,26 +244,26 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1.33">
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1.33">
-<p style="font-size: 8px;">Mr Raymond Teo <strong></strong>
+<p style="font-size: 10px;">Mr Raymond Teo <strong></strong>
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1.33">
-<p style="font-size: 8px;">Mr Robert Ronald <strong></strong>
+<p style="font-size: 10px;">Mr Robert Ronald <strong></strong>
 <br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1.33">
-<p style="font-size: 8px;">AC Leslie Williams <strong></strong>
+<p style="font-size: 10px;">AC Leslie Williams <strong></strong>
 <br><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
 </p>
@@ -333,32 +333,32 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">
 </div>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Chang Fook Yong
+<p style="font-size: 10px;">Mr Chang Fook Yong
 <br><strong>Co-Chairman</strong>
 <br><strong>Schools And Youth Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">SAC Abdul Razak
+<p style="font-size: 10px;">SAC Abdul Razak
 <br><strong>Co-Chairman</strong>
 <br><strong>Schools And Youth Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Raymond Chin
+<p style="font-size: 10px;">Mr Raymond Chin
 <br><strong>Co-Chairman</strong>
 <br><strong>Fund Raising &amp; Membership Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Steven Goh
+<p style="font-size: 10px;">Mr Steven Goh
 <br><strong>Co-Chairman</strong>
 <br><strong>Fund Raising &amp; Membership Committee</strong>
 </p>
@@ -394,12 +394,12 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
+<img style="width: 81%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -415,16 +415,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr&nbsp;Bernard Lew</p>
+<p style="font-size: 10px;">Mr&nbsp;Bernard Lew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr&nbsp;Tok Hock Soon</p>
+<p style="font-size: 10px;">Mr&nbsp;Tok Hock Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Joshua Lo</p>
+<p style="font-size: 10px;">Mr Joshua Lo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Raizan Abdul Razak</p>
+<p style="font-size: 10px;">Mr Raizan Abdul Razak</p>
 </td>
 </tr>
 <tr>
@@ -444,12 +444,12 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png">
+<img style="width: 81%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png">
+<img style="width: 92%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -465,16 +465,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Mr Jovan Cai</p>
+<p style="font-size: 10px;">Mr Jovan Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Ms Michelle Lam</p>
+<p style="font-size: 10px;">Ms Michelle Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Ms Tong Sook Yean</p>
+<p style="font-size: 10px;">Ms Tong Sook Yean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p style="font-size: 8px;">Ms Yen Tan</p>
+<p style="font-size: 10px;">Ms Yen Tan</p>
 </td>
 </tr>
 <tr>
