@@ -125,22 +125,22 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Markham Shaw
+<p style="font-size: 8px;">Mr Markham Shaw
 <br><strong>Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Wu
+<p style="font-size: 8px;">Mr John Wu
 <br><strong>Vice-Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Alan Chow
+<p style="font-size: 8px;">SAC Alan Chow
 <br><strong>Executive Director</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COL&nbsp;Png Yan Da
+<p style="font-size: 8px;">COL&nbsp;Png Yan Da
 <br><strong>Honorary Treasurer</strong>
 </p>
 </td>
@@ -193,25 +193,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Yap
+<p style="font-size: 8px;">Mr Edwin Yap
 <br><strong>Co-Chairman</strong>
 <br><strong>Industrial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Koh
+<p style="font-size: 8px;">Mr Terence Koh
 <br><strong>Co-Chairman</strong>
 <br><strong>Industrial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chris Tan
+<p style="font-size: 8px;">Mr Chris Tan
 <br><strong>Co-Chairman</strong>
 <br><strong>Commercial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Benedict Koh
+<p style="font-size: 8px;">Mr Benedict Koh
 <br><strong>Co-Chairman</strong>
 <br><strong>Commercial Premises Committee</strong>
 </p>
@@ -250,20 +250,21 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1.33">
-<p>Mr Raymond Teo</p>
-<p><strong>Co-Chairman</strong>
+<p style="font-size: 8px;">Mr Raymond Teo <strong></strong>
+<br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1.33">
-<p>Mr Robert Ronald</p>
-<p><strong>Co-Chairman</strong>
+<p style="font-size: 8px;">Mr Robert Ronald <strong></strong>
+<br><strong>Co-Chairman</strong>
 <br><strong>Housing Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1.33">
-<p>AC Leslie Williams <strong></strong></p><p><strong>Chairman</strong>
+<p style="font-size: 8px;">AC Leslie Williams <strong></strong>
+<br><strong>Chairman</strong>
 <br><strong>Publicity Committee</strong>
 </p>
 </td>
@@ -339,25 +340,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chang Fook Yong
+<p style="font-size: 8px;">Mr Chang Fook Yong
 <br><strong>Co-Chairman</strong>
 <br><strong>Schools And Youth Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Abdul Razak
+<p style="font-size: 8px;">SAC Abdul Razak
 <br><strong>Co-Chairman</strong>
 <br><strong>Schools And Youth Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Chin
+<p style="font-size: 8px;">Mr Raymond Chin
 <br><strong>Co-Chairman</strong>
 <br><strong>Fund Raising &amp; Membership Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Goh
+<p style="font-size: 8px;">Mr Steven Goh
 <br><strong>Co-Chairman</strong>
 <br><strong>Fund Raising &amp; Membership Committee</strong>
 </p>
@@ -414,16 +415,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Bernard Lew</p>
+<p style="font-size: 8px;">Mr&nbsp;Bernard Lew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Tok Hock Soon</p>
+<p style="font-size: 8px;">Mr&nbsp;Tok Hock Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Lo</p>
+<p style="font-size: 8px;">Mr Joshua Lo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raizan Abdul Razak</p>
+<p style="font-size: 8px;">Mr Raizan Abdul Razak</p>
 </td>
 </tr>
 <tr>
@@ -464,16 +465,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jovan Cai</p>
+<p style="font-size: 8px;">Mr Jovan Cai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lam</p>
+<p style="font-size: 8px;">Ms Michelle Lam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tong Sook Yean</p>
+<p style="font-size: 8px;">Ms Tong Sook Yean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yen Tan</p>
+<p style="font-size: 8px;">Ms Yen Tan</p>
 </td>
 </tr>
 <tr>
