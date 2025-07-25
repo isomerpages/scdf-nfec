@@ -4,30 +4,74 @@ permalink: /board-directors/permalink/
 description: ""
 variant: markdown
 ---
-<table cellpadding="0" cellspacing="0" border="1" style="width: 100%;">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<table bgcolor="#333333" cellpadding="0" cellspacing="5" border="0" style="width: 100%;" class="borders">
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<table align="center" cellpadding="0" cellspacing="0" border="0" style="width: 30%;">
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td valign="top" align="center">
-<center></center><center></center><center></center><table bgcolor="#efefef" cellpadding="0" cellspacing="5" border="0" style="width: 100%;" class="borders">
+<td rowspan="1" colspan="1">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td bgcolor="#efefef" align="center" colspan="4" style="width: 100%;" class="pageSubSubTitle">
-<center><h4><span align="center" style="font-family: verdana, geneva, sans-serif;">Patron In Chief</span></h4></center>
+<td rowspan="1" colspan="4">
+<h4>Patron In Chief</h4>
 </td>
 </tr>
 <tr>
-<td valign="top" align="center"><img src="/images/Mr_K_Shanmugam_new.png"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/Mr_K_Shanmugam_new.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr K Shanmugam<br><span align="center" style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Home Affairs and</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Minister For Law</strong></span></center></span></td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p><strong></strong></p><center><strong>Mr K Shanmugam <br>Minister For Home Affairs and<br>Minister For Law</strong>
+<p></p>
+<p></p>
+<p></p>
+</center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -38,146 +82,413 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<td><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td>
-<table bgcolor="#efefef" cellpadding="0" cellspacing="5" border="0" style="width: 100%;" class="borders">
+<td rowspan="1" colspan="1">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td bgcolor="#efefef" align="center" colspan="4" style="width: 100%;" class="pageSubSubTitle">
-<center><h4><span style="font-family: verdana, geneva, sans-serif;">Office Bearers</span></h4></center>
+<td rowspan="1" colspan="4">
+<h4>Office Bearers</h4>
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20markham%20shaw.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20john%20wu.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/AC_Alan_Chow.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img width="80" src="/images/LTC_Png_Yan_Da.png"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Markham_Shaw.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_John_Wu.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Alan_Chow.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 95%" height="auto" width="80" src="/images/Board%20of%20Directors%20July%202025/COL_Png_Yan_Da.png">
+</div>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Markham Shaw<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr John Wu<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Vice-Chairman</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Alan Chow<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Executive Director</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>LTC&nbsp;Png Yan Da<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Honorary Treasurer</strong></span></center></span></td>
+<td rowspan="1" colspan="1">
+<p>Mr Markham Shaw
+<br><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr John Wu
+<br><strong>Vice-Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Alan Chow
+<br><strong>Executive Director</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>COL&nbsp;Png Yan Da
+<br><strong>Honorary Treasurer</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
 <tr>
-<td><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td>
-<table bgcolor="#efefef" cellpadding="0" cellspacing="5" border="0" style="width: 100%;" class="borders">
+<td rowspan="1" colspan="1">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td bgcolor="#efefef" align="center" colspan="4">
-<center><h4><span style="font-family: verdana, geneva, sans-serif;">Committees' Chairpersons</span></h4></center>
+<td rowspan="1" colspan="4">
+<h4>Committees' Chairpersons</h4>
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20edwin%20yap.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20terence%20koh.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20chris%20tan.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20benedict%20koh.png"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Edwin_Yap.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Terence_Koh.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chris_Tan.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Benedict_Koh.png">
+</div>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Edwin Yap<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Industrial Premises Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Terence Koh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Industrial Premises Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Chris Tan<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Commercial Premises Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Benedict Koh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Commercial Premises Committee</strong></span></center></td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Yap
+<br><strong>Co-Chairman</strong>
+<br><strong>Industrial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Koh
+<br><strong>Co-Chairman</strong>
+<br><strong>Industrial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chris Tan
+<br><strong>Co-Chairman</strong>
+<br><strong>Commercial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benedict Koh
+<br><strong>Co-Chairman</strong>
+<br><strong>Commercial Premises Committee</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20raymond%20teo.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20robert%20ronald.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/ac%20leslie%20williams.png"></td>
-	<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Vacant2.png"></td>
-<td valign="top" align="center" style="width: 25%;">&nbsp;</td>
+<td rowspan="1" colspan="1.33">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Teo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1.33">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Robert_Ronald.png">
+</div>
+</td>
+<td rowspan="1" colspan="1.33">
+<div class="isomer-image-wrapper">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/AC_Leslie_Williams.png">
+</div>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Teo<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Robert Ronald<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Housing Premises Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>AC Leslie Williams<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Publicity Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Vacant<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Healthcare Committee      </strong><br></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="white-space: pre; font-family: verdana, geneva, sans-serif;"><br><br></span></td>
+<td rowspan="1" colspan="1.33">
+<p>Mr Raymond Teo</p>
+<p><strong>Co-Chairman</strong>
+<br><strong>Housing Premises Committee</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1.33">
+<p>Mr Robert Ronald</p>
+<p><strong>Co-Chairman</strong>
+<br><strong>Housing Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1.33">
+<p>AC Leslie Williams <strong></strong></p><p><strong>Chairman</strong>
+<br><strong>Publicity Committee</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Chang_Fook_Yong.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/sac%20abdul%20razak.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/Mr_Raymond_Chin.png">&nbsp;</td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20steven%20goh.png">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;"><center>Mr Chang Fook Yong<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>SAC Abdul Razak<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Schools And Youth Committee</strong></span></center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;" class="contentFontBoldLighter"><center>Mr Raymond Chin<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Steven Goh<br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Co-Chairman</strong></span><br><span style="font-size: 8pt; font-family: verdana, geneva, sans-serif;"><strong>Fund Raising &amp; Membership Committee</strong></span></center></td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Chang_Fook_Yong.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Abdul_Razak.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Raymond_Chin.png">
+</div>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Steven_Goh.png">
+</div>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chang Fook Yong
+<br><strong>Co-Chairman</strong>
+<br><strong>Schools And Youth Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Abdul Razak
+<br><strong>Co-Chairman</strong>
+<br><strong>Schools And Youth Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Chin
+<br><strong>Co-Chairman</strong>
+<br><strong>Fund Raising &amp; Membership Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Steven Goh
+<br><strong>Co-Chairman</strong>
+<br><strong>Fund Raising &amp; Membership Committee</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
 <tr>
-<td><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td><br>
-<table bgcolor="#efefef" cellpadding="0" cellspacing="5" border="0" style="width: 100%;" class="borders">
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td bgcolor="#efefef" align="center" colspan="4">
-<center><h4><span style="font-family: verdana, geneva, sans-serif;">Members</span></h4></center>
+<td rowspan="1" colspan="4">
+<h4>Members</h4>
 </td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20bernard%20lew.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img alt="" src="/images/mr%20patrick%20sim.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/Mr_Joshua_Lo.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/mr%20raizan%20abdul%20razak.png"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Tok_Hock_Soon.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Joshua_Lo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Raizan_Abdul_Razak.png">
+</div>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Bernard Lew Buang Keng</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr&nbsp;Patrick Sim</center></td>
-	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Joshua Lo</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Raizan Abdul Razak</center></td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Bernard Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Tok Hock Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Lo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raizan Abdul Razak</p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/Mr_Jovan_Cai.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/Ms_Michelle_Lam.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20tong%20sook%20yuen.png"></td>
-<td valign="top" align="center" style="width: 25%;"><img src="/images/ms%20yen%20tan.png"></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Mr_Jovan_Cai.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Michelle_Lam.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Tong_Sook_Yean.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Board%20of%20Directors%20July%202025/Ms_Yen_Tan.png">
+</div>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Mr Jovan Cai Jinfeng</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Michelle Lam</center></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Tong Sook Yuen</center></td>
-	<td valign="top" align="center" style="width: 25%;" class="leftMenu"><center>Ms Yen Tan</center></td>
+<td rowspan="1" colspan="1">
+<p>Mr Jovan Cai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Lam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tong Sook Yean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yen Tan</p>
+</td>
 </tr>
 <tr>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
-<td valign="top" align="center" style="width: 25%;" class="leftMenu"><span style="font-family: verdana, geneva, sans-serif;">&nbsp;</span></td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -189,3 +500,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+<p></p>
