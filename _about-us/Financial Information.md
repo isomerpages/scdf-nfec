@@ -22,11 +22,6 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>2018</strong>
-<br><strong>(S$'000)</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
 <p><strong>2019</strong>
 <br><strong>(S$'000)</strong>
 </p>
@@ -53,6 +48,10 @@ variant: tiptap
 <p><strong>2024<br>(S$'000)</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p><strong>2025<br>(S$'000)</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,9 +59,6 @@ variant: tiptap
 <br><strong>- Tax Deductible</strong>
 <br><strong>- Non-Tax Deductible</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>100</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>101.1</p>
@@ -81,6 +77,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +126,10 @@ variant: tiptap
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>2.374</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.374</p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
@@ -143,9 +142,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Investment Income</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22.651</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24.406</p>
@@ -164,6 +160,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>18.76</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25.417</p>
 </td>
 </tr>
 <tr>
@@ -199,9 +198,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>219.318</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>303.057</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,14 +215,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>164.798</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>305.953</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>TOTAL INCOME</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>341.969</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,6 +248,10 @@ variant: tiptap
 <p><strong>383.558</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>431.370</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -273,11 +272,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Expenses</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>2018</strong>
-<br><strong>(S$'000)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -307,6 +301,10 @@ variant: tiptap
 <p><strong>2024<br>(S$'000)</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p><strong>2025<br>(S$'000)</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -314,13 +312,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1.13</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6.007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
@@ -344,9 +342,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>127.189</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>120.381</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,14 +359,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>84.873</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>195.611</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Other Operating &amp; Administration Expenses</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>360.319</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>216.145</p>
@@ -390,6 +385,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>179.801</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>187.976</p>
 </td>
 </tr>
 <tr>
@@ -425,10 +423,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>487.508</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>337.656</strong>
 </p>
 </td>
@@ -452,14 +446,14 @@ variant: tiptap
 <p><strong>264.674</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>383.587</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Surplus / (Deficit)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>(145.539)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -486,6 +480,10 @@ variant: tiptap
 <p><strong>118.884</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>47.783</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -506,11 +504,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>Balance Sheet</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>2018</strong>
-<br><strong>(S$'000)</strong>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>2019</strong>
@@ -539,11 +532,18 @@ variant: tiptap
 <p><strong>2024<br>(S$'000)</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p><strong>2025<br>(S$'000)</strong>
+</p>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="7">
+<td rowspan="1" colspan="6">
 <p><strong>ASSETS</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -582,9 +582,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.667</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2.603</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,14 +599,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>NA</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Investments</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>753.812</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>753.812</p>
@@ -628,6 +625,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>752.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1010.495</p>
 </td>
 </tr>
 <tr>
@@ -690,9 +690,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>736.876</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>830.377</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,14 +707,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1002.679</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>791.225</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Others</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
@@ -737,14 +734,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>7.359</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>8.308</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Total Assets</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1495.424</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1586.792</p>
@@ -764,11 +761,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1762.538</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>1810.028</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="7">
+<td rowspan="1" colspan="6">
 <p><strong>FUNDS</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -778,9 +781,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Unrestricted Fund</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1477.646</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1568.553</p>
@@ -799,6 +799,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1734.571</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1782.354</p>
 </td>
 </tr>
 <tr>
@@ -861,9 +864,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1477.646</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1568.553</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -881,11 +881,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1734.571</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>1782.354</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="7">
+<td rowspan="1" colspan="6">
 <p><strong>LIABILITIES</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -912,19 +918,16 @@ variant: tiptap
 <p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
+<p>5.411</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5.411</p>
+<p>3.881</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Current Liabilities</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17.778</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18.239</p>
@@ -944,14 +947,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>22.556</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>23.793</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>TOTAL LIABILITIES</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>17.778</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -978,14 +980,14 @@ variant: tiptap
 <p><strong>27.967</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>27.674</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>TOTAL LIABILITIES AND FUNDS</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1495.424</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1012,6 +1014,10 @@ variant: tiptap
 <p><strong>1762.538</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>1810.028</strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -1032,11 +1038,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Other Information</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>2018</strong>
-<br><strong>(S$'000)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -1064,6 +1065,10 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>2024<br>(S$'000)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2025<br>(S$'000)</strong>
 </p>
 </th>
 </tr>
@@ -1127,9 +1132,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>123.488</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>132.686</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1147,6 +1149,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>148.899</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>158.707</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1154,13 +1159,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NA</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>1.10%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6%</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
