@@ -26,4 +26,3 @@ best practices on fire safety and emergency preparedness at the workplace.</p>
 <p>The NFEC would like to thank all participants for their strong support!
 We look forward to strengthening our partnership as we work towards building
 a fire-safe and emergency-prepared Singapore.</p>
-<p></p>
