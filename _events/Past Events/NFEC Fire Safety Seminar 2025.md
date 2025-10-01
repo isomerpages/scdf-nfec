@@ -19,6 +19,18 @@ participants to gain valuable insights into fire safety best practices,
 emergency response and crisis management strategies. Six speakers from
 various professional agencies and institutions were invited to share their
 expertise on the latest fire safety developments and trends.</p>
+<p><a href="/files/NFEC_2025_360_Fire_Safety_Reimagined_compressed__1___1_.pdf" rel="noopener noreferrer nofollow" target="_blank">360 degrees Fire Safety Reimagined</a>
+</p>
+<p><a href="/files/NFEC_2025_Beyond_Fire_Performance.pdf" rel="noopener noreferrer nofollow" target="_blank">Beyond Fire Performance</a>
+</p>
+<p><a href="/files/NFEC_2025_Fire_Hazards_of_Battery_Energy_Storage.pdf" rel="noopener noreferrer nofollow" target="_blank">Fire Hazards of Battery Energy Storage</a>
+</p>
+<p><a href="/files/NFEC_2025_Fire_Safety_Non_Compliances_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Fire Safety Non-compliances for 2024</a>
+</p>
+<p><a href="/files/NFEC_2025_Fire_Statistics_and_Case_Studies.pdf" rel="noopener noreferrer nofollow" target="_blank">Fire Statistics and Case Studies</a>
+</p>
+<p><a href="/files/NFEC_2025_Driving_WSH_Excellence.pdf" rel="noopener noreferrer nofollow" target="_blank">Driving WSH Excellence</a>
+</p>
 <p></p>
 <p></p>
 <p>The event culminated in an engaging panel discussion focused on exchanging
