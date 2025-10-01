@@ -21,5 +21,5 @@ sections:
         - title: NFEC Fire Safety Seminar 2025
           description: ""
           linktext: Learn more
-          url: /upcoming-events/nfec-fire-safety-seminar-2025/
+          url: /past-events/nfec-fire-safety-seminar-2025/
 ---
