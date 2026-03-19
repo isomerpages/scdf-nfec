@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h3>Mission</h3>
 <p>The National Fire And Emergency Preparedness Council (NFEC) is committed
-towards promoting fire prevention and civil emergency preparedness to make
-Singapore safe and secure.
+towards promoting fire prevention and emergency preparedness to make Singapore
+safe and secure.
 <br>
 </p>
 <h3>Logo</h3>
