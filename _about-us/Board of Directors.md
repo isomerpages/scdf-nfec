@@ -8,9 +8,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="Photo of Mr K Shanmugam" src="/images/mr k shanmugam 5.png">
 </div>
-<p><strong>Mr K Shanmugam</strong>
+<p>Mr K Shanmugam</p>
+<p><strong>Coordinating Minister for National Security and Minister for Home Affairs</strong>
 </p>
-<p>Coordinating Minister for National Security and Minister for Home Affairs</p>
 <h3>Office Bearers</h3>
 <table style="minWidth: 100px">
 <colgroup>
