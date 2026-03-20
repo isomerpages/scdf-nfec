@@ -5,17 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4>Patron In Chief</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo of Mr K Shanmugam" src="/images/mr k shanmugam 5.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Photo of Mr K Shanmugam" src="/images/mr k shanmugam 5.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr K Shanmugam</div>
-<div class="isomer-card-description">Coordinating Minister for National Security and Minister for Home Affairs</div>
-</div>
-</div>
-</div>
-<p></p>
+<p><strong>Mr K Shanmugam</strong>
+</p>
+<p>Coordinating Minister for National Security and Minister for Home Affairs</p>
