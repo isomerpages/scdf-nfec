@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
+      - Board of Directors New.md
       - Mission & Logo.md
       - Board of Directors.md
       - Governance.md
