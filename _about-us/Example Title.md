@@ -4,6 +4,33 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
+<h3>Patron In Chief</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Photo of Mr K Shanmugam" src="/images/mr k shanmugam 5.png">
+</div>
+<p>Mr K Shanmugam</p>
+<p><strong>Coordinating Minister for National Security and Minister for Home Affairs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Office Bearers</h3>
 <table style="minWidth: 100px">
 <colgroup>
