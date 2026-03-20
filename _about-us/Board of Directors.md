@@ -59,7 +59,7 @@ variant: markdown
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Mr K Shanmugam <br>Coordinating Minister for National Security and Minister for Home Affairs</strong>
+<p>Mr K Shanmugam <br><strong>Coordinating Minister for National Security and Minister for Home Affairs</strong>
 </p>
 <p></p>
 <p></p>
@@ -116,7 +116,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/SAC_Alan_Chow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC_Goh_Boon_Han.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,12 +137,12 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Alan Chow
+<p>SAC Goh Boon Han
 <br><strong>Executive Director</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>COL&nbsp;Png Yan Da
+<p>LTC Neo JIa Qi
 <br><strong>Honorary Treasurer</strong>
 </p>
 </td>
