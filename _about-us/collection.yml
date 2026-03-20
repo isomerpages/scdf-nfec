@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Directors v2.md
       - Mission & Logo.md
+      - Board of Directors v2.md
       - Board of Directors.md
       - Governance.md
       - Financial Information.md
