@@ -33,12 +33,20 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>SAC Goh Boon Han <strong>Executive Director</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Photo of SAC Goh Boon Han" src="/images/SAC_Goh_Boon_Han.png">
+</div>
+<p>SAC Goh Boon Han</p>
+<p><strong>Executive Director</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>LTC Neo Jia Qi <strong>Honorary Treasurer</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Photo of LTC Neo Jia Qi" src="/images/LTC_Neo_Jia_Qi.png">
+</div>
+<p>LTC Neo Jia Qi</p>
+<p><strong>Honorary Treasurer</strong>
 </p>
 </td>
 </tr>
