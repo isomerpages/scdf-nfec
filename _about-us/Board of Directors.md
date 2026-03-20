@@ -23,12 +23,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Markham Shaw" src="/images/Board of Directors Mar 2026/Mr_Markham_Shaw.png">
+</div>
 <p>Mr Markham Shaw
 <br><strong>Chairman</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr John Wu" src="/images/Board of Directors Mar 2026/Mr_John_Wu.png">
+</div>
 <p>Mr John Wu
 <br><strong>Vice-Chairman</strong>
 </p>
@@ -36,7 +42,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Photo of SAC Goh Boon Han" src="/images/SAC_Goh_Boon_Han.png">
+<img style="width: 100%" height="auto" width="100%" alt="SAC Goh Boon Han" src="/images/Board of Directors Mar 2026/SAC_Goh_Boon_Han.png">
 </div>
 <p>SAC Goh Boon Han
 <br><strong>Executive Director</strong>
@@ -45,7 +51,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Photo of LTC Neo Jia Qi" src="/images/LTC_Neo_Jia_Qi.png">
+<img style="width: 100%" height="auto" width="100%" alt="LTC Neo Jia Qi" src="/images/Board of Directors Mar 2026/LTC_Neo_Jia_Qi.png">
 </div>
 <p>LTC Neo Jia Qi
 <br><strong>Honorary Treasurer</strong>
