@@ -120,7 +120,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Raymond Teo" src="/images/Board of Directors Mar 2026/Mr_Raymond_Teo.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Mr Raymond Teo" src="/images/Board of Directors Mar 2026/Mr_Raymond_Teo.png">
 </div>
 <p>Mr Raymond Teo</p>
 <p><strong>Co-Chairman Housing Premises Committee</strong>
@@ -128,7 +128,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mr Tok Hock Soon" src="/images/Board of Directors Mar 2026/Mr_Tok_Hock_Soon.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Mr Tok Hock Soon" src="/images/Board of Directors Mar 2026/Mr_Tok_Hock_Soon.png">
 </div>
 <p>Mr Tok Hock Soon</p>
 <p><strong>Co-Chairman Housing Premises Committee</strong>
@@ -136,7 +136,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="AC Leslie Williams" src="/images/Board of Directors Mar 2026/AC_Leslie_Williams.png">
+<img style="width: 100%;" height="auto" width="100%" alt="AC Leslie Williams" src="/images/Board of Directors Mar 2026/AC_Leslie_Williams.png">
 </div>
 <p>AC Leslie Williams</p>
 <p><strong>Chairman Publicity Committee</strong>
@@ -144,6 +144,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Blank Image" src="/images/Board of Directors Mar 2026/Blank_Image.png">
+</div>
 </td>
 </tr>
 </tbody>
