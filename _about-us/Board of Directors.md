@@ -76,7 +76,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Mr Bernard Lew" src="/images/Board of Directors Mar 2026/Mr_Bernard_Lew.png">
 </div>
 <p>Mr Bernard Lew</p>
-<p><strong>Co-Chairman Industrial Premises Committee</strong>
+<p><strong>Co-Chairman   Industrial Premises Committee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
 </div>
 <p>Mr Chris Tan</p>
 <p><strong>Co-Chairman Commercial Premises Committee</strong>
@@ -100,7 +100,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
 </div>
 <p>Mr Benedict Koh</p>
 <p><strong>Co-Chairman Commercial Premises Committee</strong>
