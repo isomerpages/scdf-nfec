@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mission & Logo.md
-      - Board of Directors v2.md
       - Board of Directors.md
       - Governance.md
       - Financial Information.md
