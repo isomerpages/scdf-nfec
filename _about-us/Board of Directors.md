@@ -174,7 +174,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Edwin_Yap.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Board%20of%20Directors%20July%202025/Mr_Bernard_Lew.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Yap
+<p>Mr&nbsp;Bernard Lew
 <br><strong>Co-Chairman</strong>
 <br><strong>Industrial Premises Committee</strong>
 </p>
