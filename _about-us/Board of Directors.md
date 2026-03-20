@@ -65,7 +65,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Yap</p>
+<p>Mr Bernard Lew</p>
 <p><strong>Co-Chairman</strong>
 </p>
 <p><strong>Industrial Premises Committee</strong>
@@ -112,7 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Robert Ronald</p>
+<p>Mr Tok Hock Soon</p>
 <p><strong>Co-Chairman</strong>
 </p>
 <p><strong>Housing Premises Committee</strong>
