@@ -150,4 +150,36 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chang Fook Yong</p>
+<p><strong>Co-Chairman Schools And Youth Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Abdul Razak</p>
+<p><strong>Co-Chairman Schools And Youth Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Chin</p>
+<p><strong>Co-Chairman Fund Raising &amp; Membership Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Steven Goh</p>
+<p><strong>Co-Chairman Fund Raising &amp; Membership Committee</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
