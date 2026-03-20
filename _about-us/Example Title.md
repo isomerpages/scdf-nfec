@@ -4,6 +4,7 @@ permalink: /example-title/
 variant: tiptap
 description: ""
 ---
+<h3>Office Bearers</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
