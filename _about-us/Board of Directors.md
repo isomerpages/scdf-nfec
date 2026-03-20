@@ -54,4 +54,73 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3>Committees' Chairpersons</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Yap</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Industrial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Koh</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Industrial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chris Tan</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Commercial Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benedict Koh</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Commercial Premises Committee</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Teo</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Housing Premises Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
