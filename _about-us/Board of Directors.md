@@ -112,10 +112,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Robert Ronald</p>
+<p><strong>Co-Chairman</strong>
+</p>
+<p><strong>Housing Premises Committee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AC Leslie Williams</p>
+<p><strong>Chairman</strong>
+</p>
+<p><strong>Publicity Committee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
