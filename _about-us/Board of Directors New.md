@@ -44,7 +44,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Photo of Mr Markham Shaw" src="/images/mr markham shaw 2.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Photo of Mr Markham Shaw" src="/images/mr markham shaw 2.png">
 </div>
 <p>Mr Markham Shaw</p>
 <p><strong>Chairman</strong>
