@@ -71,6 +71,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard Lew" src="/images/Board of Directors Mar 2026/Mr_Bernard_Lew.png">
+</div>
 <p>Mr Bernard Lew</p>
 <p><strong>Co-Chairman</strong>
 </p>
@@ -78,6 +82,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Terence Koh" src="/images/Board of Directors Mar 2026/Mr_Terence_Koh.png">
+</div>
 <p>Mr Terence Koh</p>
 <p><strong>Co-Chairman</strong>
 </p>
@@ -85,6 +93,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
+</div>
 <p>Mr Chris Tan</p>
 <p><strong>Co-Chairman</strong>
 </p>
@@ -92,6 +104,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
+</div>
 <p>Mr Benedict Koh</p>
 <p><strong>Co-Chairman</strong>
 </p>
