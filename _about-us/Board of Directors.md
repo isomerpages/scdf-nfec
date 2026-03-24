@@ -110,4 +110,36 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Raymond Teo</strong>
+</p>
+<p>Co-Chairman Housing Premises Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Robert Ronald</strong>
+</p>
+<p>Co-Chairman Housing Premises Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AC Leslie Williams</strong>
+</p>
+<p>Chairman Publicity Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chang Fook Yong</strong>
+</p>
+<p>Co-Chairman Schools And Youth Committee</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
