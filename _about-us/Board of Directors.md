@@ -214,11 +214,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Tok Hock Soon" src="/images/Board of Directors Mar 2026/Mr_Tok_Hock_Soon.png">
+</div>
 <p><strong>Mr Tok Hock Soon</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Joshua Lo" src="/images/Board of Directors Mar 2026/Mr_Joshua_Lo.jpg">
+</div>
 <p><strong>Mr Joshua Lo</strong>
 </p>
 </td>
