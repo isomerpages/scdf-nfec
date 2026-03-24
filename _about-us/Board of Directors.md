@@ -179,15 +179,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAC Abdul Razak</p>
+<p></p>
+<p><strong>SAC Abdul Razak</strong>
+</p>
 <p>Co-Chairman Schools And Youth Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Chin</p>
+<p></p>
+<p><strong>Mr Raymond Chin</strong>
+</p>
 <p>Co-Chairman Fund Raising &amp; Membership Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Steven Goh</p>
+<p></p>
+<p><strong>Mr Steven Goh</strong>
+</p>
 <p>Co-Chairman Fund Raising &amp; Membership Committee</p>
 </td>
 </tr>
