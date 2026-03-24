@@ -193,7 +193,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Mr Bernard Lew" src="/images/Board of Directors Mar 2026/Mr_Bernard_Lew.png">
 </div>
@@ -201,7 +200,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Tok Hock Soon" src="/images/Board of Directors Mar 2026/Mr_Tok_Hock_Soon.png">
 </div>
@@ -209,7 +207,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="Mr Joshua Lo" src="/images/Board of Directors Mar 2026/Mr_Joshua_Lo.jpg">
 </div>
@@ -217,7 +214,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="Mr Raizan Abdul Razak" src="/images/Board of Directors Mar 2026/Mr_Raizan_Abdul_Razak.jpg">
 </div>
@@ -237,7 +233,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Jovan Cai" src="/images/Board of Directors Mar 2026/Mr_Jovan_Cai.jpg">
 </div>
@@ -245,7 +240,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Ms Michelle Lam" src="/images/Board of Directors Mar 2026/Ms_Michelle_Lam.png">
 </div>
@@ -253,7 +247,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Tong Sook Yean" src="/images/Board of Directors Mar 2026/Ms_Tong_Sook_Yean.png">
 </div>
@@ -261,7 +254,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Yen Tan" src="/images/Board of Directors Mar 2026/Ms_Yen_Tan.png">
 </div>
