@@ -83,7 +83,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Terence Koh" src="/images/Board of Directors Mar 2026/Mr_Terence_Koh.png">
+<img style="width: 87%;" height="auto" width="100%" alt="Mr Terence Koh" src="/images/Board of Directors Mar 2026/Mr_Terence_Koh.png">
 </div>
 <p><strong>Mr Terence Koh</strong>
 </p>
@@ -92,7 +92,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
 </div>
 <p><strong>Mr Chris Tan</strong>
 </p>
@@ -101,7 +101,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
+<img style="width: 95%;" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
 </div>
 <p><strong>Mr Benedict Koh</strong>
 </p>
