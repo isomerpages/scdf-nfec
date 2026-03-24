@@ -136,14 +136,15 @@ description: ""
 <p>Co-Chairman Housing Premises Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AC Leslie Williams" src="/images/Board of Directors Mar 2026/ac_leslie_williams.png">
+</div>
 <p><strong>AC Leslie Williams</strong>
 </p>
 <p>Chairman Publicity Committee</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Chang Fook Yong" src="/images/Board of Directors Mar 2026/Mr_Chang_Fook_Yong.png">
 </div>
