@@ -178,6 +178,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Raymond Chin" src="/images/Board of Directors Mar 2026/Mr_Raymond_Chin.jpg">
+</div>
 <p><strong>Mr Raymond Chin</strong>
 </p>
 <p>Co-Chairman Fund Raising &amp; Membership Committee</p>
