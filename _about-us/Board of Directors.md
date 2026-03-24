@@ -130,6 +130,10 @@ description: ""
 <p>Co-Chairman Housing Premises Committee</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Robert Ronald" src="/images/Board of Directors Mar 2026/Mr_Robert_Ronald.png">
+</div>
 <p><strong>Mr Robert Ronald</strong>
 </p>
 <p>Co-Chairman Housing Premises Committee</p>
