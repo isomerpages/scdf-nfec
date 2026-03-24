@@ -23,7 +23,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Markham Shaw" src="/images/Board of Directors Mar 2026/Mr_Markham_Shaw.png">
 </div>
@@ -32,7 +31,6 @@ description: ""
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr John Wu" src="/images/Board of Directors Mar 2026/Mr_John_Wu.png">
 </div>
@@ -41,7 +39,6 @@ description: ""
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SAC Alan Chow" src="/images/Board of Directors Mar 2026/SAC_Alan_Chow.jpg">
 </div>
@@ -50,7 +47,6 @@ description: ""
 <p>Executive Director</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="COL Png Yan Da" src="/images/Board of Directors Mar 2026/COL_Png_Yan_Da.png">
 </div>
@@ -72,7 +68,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Edwin Yap" src="/images/Board of Directors Mar 2026/Mr_Edwin_Yap.jpg">
 </div>
@@ -81,7 +76,6 @@ description: ""
 <p>Co-Chairman Industrial Premises Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="auto" width="100%" alt="Mr Terence Koh" src="/images/Board of Directors Mar 2026/Mr_Terence_Koh.png">
 </div>
@@ -90,7 +84,6 @@ description: ""
 <p>Co-Chairman Industrial Premises Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
 </div>
@@ -99,7 +92,6 @@ description: ""
 <p>Co-Chairman Commercial Premises Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
 </div>
@@ -164,7 +156,6 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="SAC Abdul Razak" src="/images/Board of Directors Mar 2026/SAC_Abdul_Razak.png">
 </div>
@@ -173,7 +164,6 @@ description: ""
 <p>Co-Chairman Schools And Youth Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Mr Raymond Chin" src="/images/Board of Directors Mar 2026/Mr_Raymond_Chin.jpg">
 </div>
@@ -182,7 +172,6 @@ description: ""
 <p>Co-Chairman Fund Raising &amp; Membership Committee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Mr Steven Goh" src="/images/Board of Directors Mar 2026/Mr_Steven_Goh.png">
 </div>
