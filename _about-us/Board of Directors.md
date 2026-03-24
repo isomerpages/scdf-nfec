@@ -62,4 +62,52 @@ description: ""
 </tbody>
 </table>
 <h3>Committees' Chairpersons</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Edwin Yap" src="/images/Board of Directors Mar 2026/Mr_Edwin_Yap.jpg">
+</div>
+<p><strong>Mr Edwin Yap</strong>
+</p>
+<p>Co-Chairman Industrial Premises Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Terence Koh" src="/images/Board of Directors Mar 2026/Mr_Terence_Koh.png">
+</div>
+<p><strong>Mr Terence Koh</strong>
+</p>
+<p>Co-Chairman Industrial Premises Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chris Tan" src="/images/Board of Directors Mar 2026/Mr_Chris_Tan.png">
+</div>
+<p><strong>Mr Chris Tan</strong>
+</p>
+<p>Co-Chairman Commercial Premises Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Benedict Koh" src="/images/Board of Directors Mar 2026/Mr_Benedict_Koh.png">
+</div>
+<p><strong>Mr Benedict Koh</strong>
+</p>
+<p>Co-Chairman Commercial Premises Committee</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
