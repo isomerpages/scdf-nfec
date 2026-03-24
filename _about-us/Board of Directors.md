@@ -159,4 +159,38 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAC Abdul Razak</p>
+<p>Co-Chairman Schools And Youth Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Chin</p>
+<p>Co-Chairman Fund Raising &amp; Membership Committee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Steven Goh</p>
+<p>Co-Chairman Fund Raising &amp; Membership Committee</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
