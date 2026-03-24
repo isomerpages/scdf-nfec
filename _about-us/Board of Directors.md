@@ -197,4 +197,37 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h3>Members</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Mr Bernard Lew</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Mr Tok Hock Soon</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Mr Joshua Lo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>Mr Raizan Abdul Razak</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
