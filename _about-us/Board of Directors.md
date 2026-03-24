@@ -267,11 +267,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jovan Cai" src="/images/Board of Directors Mar 2026/Mr_Jovan_Cai.jpg">
+</div>
 <p><strong>Mr Jovan Cai</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Michelle Lam" src="/images/Board of Directors Mar 2026/Ms_Michelle_Lam.png">
+</div>
 <p><strong>Ms Michelle Lam</strong>
 </p>
 </td>
