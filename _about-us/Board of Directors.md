@@ -170,7 +170,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="SAC Abdul Razak" src="/images/Board of Directors Mar 2026/SAC_Abdul_Razak.png">
+<img style="width: 78%;" height="auto" width="100%" alt="SAC Abdul Razak" src="/images/Board of Directors Mar 2026/SAC_Abdul_Razak.png">
 </div>
 <p><strong>SAC Abdul Razak</strong>
 </p>
