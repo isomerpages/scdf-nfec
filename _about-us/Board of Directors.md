@@ -141,7 +141,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AC Leslie Williams" src="/images/Board of Directors Mar 2026/AC_Leslie_Williams.png">
+<img style="width: 55%;" height="auto" width="100%" alt="AC Leslie Williams" src="/images/Board of Directors Mar 2026/AC_Leslie_Williams.png">
 </div>
 <p><strong>AC Leslie Williams</strong>
 </p>
