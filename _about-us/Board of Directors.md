@@ -269,6 +269,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tong Sook Yean" src="/images/Board of Directors Mar 2026/Ms_Tong_Sook_Yean.png">
+</div>
 <p><strong>Ms Tong Sook Yean</strong>
 </p>
 </td>
