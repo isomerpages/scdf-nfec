@@ -209,6 +209,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard Lew" src="/images/Board of Directors Mar 2026/Mr_Bernard_Lew.png">
+</div>
 <p><strong>Mr Bernard Lew</strong>
 </p>
 </td>
@@ -230,6 +233,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Raizan Abdul Razak" src="/images/Board of Directors Mar 2026/Mr_Raizan_Abdul_Razak.jpg">
+</div>
 <p><strong>Mr Raizan Abdul Razak</strong>
 </p>
 </td>
