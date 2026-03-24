@@ -148,6 +148,10 @@ description: ""
 <p>Chairman Publicity Committee</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chang Fook Yong" src="/images/Board of Directors Mar 2026/Mr_Chang_Fook_Yong.jpg">
+</div>
 <p><strong>Mr Chang Fook Yong</strong>
 </p>
 <p>Co-Chairman Schools And Youth Committee</p>
